@@ -5,14 +5,37 @@ Page({
    * 页面的初始数据
    */
   data: {
-
+    city: '北京',
+    statusBarStyle: "",
+    navBarStyle: "",
+    barHeight: "",
+    iconItem: [],
   },
 
   /**
    * 生命周期函数--监听页面加载
    */
   onLoad: function (options) {
+    wx.request({
+      url: `${wx.baseUrl}/index`,
+      method: 'get',
+      success: (res) => {
+        this.setData({
+          iconItem: res.data
+        })
+        console.log(this.data.iconItem)
+      },
+      fail: () => {}
+    })
 
+    let statusBarStyle = `height: ${wx.db.statusBarHeight}px`
+    let navBarStyle = `height: ${wx.db.navBarHeight}px`
+    let barHeight = wx.db.statusBarHeight + wx.db.navBarHeight
+    this.setData({
+      statusBarStyle,
+      navBarStyle,
+      barHeight
+    })
   },
 
   /**

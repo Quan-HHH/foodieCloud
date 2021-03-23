@@ -1,2 +1,20 @@
-<!--miniprogram/pages/index/index.wxml-->
-<text>miniprogram/pages/index/index.wxml</text>
+<view class="container">
+  <view style="height: {{barHeight}}px"></view>
+  <view class="nav-bar-container">
+    <view class="nav-bar-top" style="{{statusBarStyle}}"></view>
+    <view class="nav-bar" style="{{navBarStyle}}">
+      <view class="select-city" style="color: white;">
+        <text>{{city}} </text>
+        <text class="iconfont icon-xiala"></text>
+      </view>
+      <view class="search-bar">
+        <input placeholder-class="iconfont icon-sousuo" type="search" placeholder="搜点什么吧" />
+      </view>
+    </view>
+  </view>
+  <scroll-view class="sort-container" enable-flex="{{true}}" scroll-x="{{true}}">
+    <view class="scroll-wrapper">
+      <sort-item wx:for="{{iconItem}}" wx:key="index" iconUrl="{{item.iconUrl}}" name="{{item.name}}"></sort-item>
+    </view>
+  </scroll-view>
+</view>

@@ -1,0 +1,14 @@
+.item-wrapper {
+  padding-bottom: 20px;
+  flex: 1;
+  display: flex;
+  width: 150rpx;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.item-wrapper image {
+  width: 80rpx;
+  height: 80rpx;
+}

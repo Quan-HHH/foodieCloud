@@ -1,0 +1,6 @@
+<view class="item-wrapper">
+  <view>
+    <image class="sort-img" src="{{iconUrl}}" />
+    <view class="sort-name">{{name}}</view>
+  </view>
+</view>

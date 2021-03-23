@@ -1,10 +1,33 @@
-// miniprogram/pages/login/login.js
+const app = getApp()
 Page({
 
   /**
    * 页面的初始数据
    */
   data: {
+
+  },
+
+  getUserInfo(e) {
+    console.log(e.detail.userInfo)
+    // 允许授权 调用云函数
+    if(e.detail.userInfo) {
+      app.globalData.userInfo = e.detail.userInfo
+      console.log(app.globalData)
+      wx.cloud.callFunction({
+        name: 'createUser',
+        data: {
+          ...e.detail.userInfo
+        }
+      }).then(res => {
+        console.log('成功', res)
+      }).catch(err => {
+        console.log('失败', err)
+      })
+      wx.switchTab({
+        url: '/pages/index/index',
+      });
+    }
 
   },
 

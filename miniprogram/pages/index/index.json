@@ -1,3 +1,6 @@
 {
-  "usingComponents": {}
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "sort-item": "/components/sort-item/sort-item"
+  }
 }
