@@ -1,6 +1,9 @@
 {
   "navigationStyle": "custom",
   "usingComponents": {
-    "sort-item": "/components/sort-item/sort-item"
+    "sort-item": "/components/sort-item/sort-item",
+    "van-dropdown-menu": "@vant/weapp/dropdown-menu/index",
+    "van-dropdown-item": "@vant/weapp/dropdown-item/index",
+    "food-item": "/components/food-item/food-item"
   }
 }

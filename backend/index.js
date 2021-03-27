@@ -1,11 +1,10 @@
 const express = require('express')
-const sortIcon = require('./data/sort-icon.json')
-const app = express()
+const path = require('path');
+const apiMocker = require('mocker-api');
 
-app.get('/index', (req, res) => {
-  res.send(sortIcon)
-})
+const app = express();
 
+apiMocker(app, path.resolve('./mocker/mocker.js'))
 app.listen(8080, () => {
-  console.log('sever is running 8080')
-})
+    console.log('8080')
+});

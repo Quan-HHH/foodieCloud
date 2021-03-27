@@ -1,0 +1,5 @@
+<view class="detail-container">
+  <view class="image-wrapper">
+    <image src="https://img.meituan.net/msmerchant/88513028d06e8b0ef38a24533acb11a2286328.png"></image>
+  </view>
+</view>

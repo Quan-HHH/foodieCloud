@@ -1,0 +1,45 @@
+<view class="food-item-wrapper">
+  <view class="food-info-wrapper">
+    <view class="item-left">
+      <image mode="widthFix" src="{{foodItem.frontImg}}" />
+    </view>
+    <view class="item-right">
+      <view class="food-name">{{foodItem.name}}</view>
+      <view class="star-and-price">
+        <view class="star">
+          <text class="iconfont icon-xingxing"></text>
+          <text class="iconfont icon-xingxing"></text>
+          <text class="iconfont icon-xingxing"></text>
+          <text class="iconfont icon-xingxing"></text>
+          <text class="iconfont icon-xingxing"></text>
+        </view>
+        <view class="price">¥{{foodItem.avgPrice}}/人</view>
+        <view class="address">{{foodItem.areaName}}</view>
+      </view>
+      <view class="cateNmae-and-smartTags">
+        <view class="cateName">{{foodItem.cateName}}</view>
+        <view class="smartTags" wx:for="{{foodItem.smartTags}}" wx:key="index" wx:for-item="smartTag_item" style="background-color: {{smartTag_item.text.backgroundColor}}; color: {{smartTag_item.text.color}}">
+          {{smartTag_item.text.content}}
+        </view>
+      </view>
+      <view class="service-tags-wrapper">
+        <view class="service-tags" wx:for="{{foodItem.extraServiceTags}}" wx:key="index" wx:for-item="serviceTag_item" style="color: {{serviceTag_item.text.color}}">
+          {{serviceTag_item.text.content}}
+        </view>
+      </view>
+    </view>
+  </view>
+  <view class="deal-info-wrapper">
+    <view class="preferential maidan" wx:for="{{foodItem.preferentialInfo.maidan.entries}}" wx:key="index" wx:for-item="maidan_item">
+      <view class="promotion-wrapper">
+        <view wx:if="{{maidan_item.promotion}}" class="promotion-text">
+          {{maidan_item.promotion}}
+        </view>
+      </view>
+      <view class="entry-wrapper">
+        <image class="promotion-icon" mode="widthFix" src="{{maidan_item.icon}}" />
+        <view class="content">{{maidan_item.content}}</view>
+      </view>
+    </view>
+  </view>
+</view>

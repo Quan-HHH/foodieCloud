@@ -1,0 +1,3082 @@
+{
+  "poiInfos": [
+    {
+      "avgPrice": 51,
+      "avgScore": 4.7,
+      "cateName": "潮汕牛肉火锅",
+      "channel": "food",
+      "showType": "",
+      "frontImg": "https://img.meituan.net/msmerchant/88513028d06e8b0ef38a24533acb11a2286328.png",
+      "lat": 28.67074,
+      "lng": 115.89974,
+      "name": "古乐牛香·鲜牛肉牛杂火锅（系马桩总店）",
+      "poiid": "163415968",
+      "areaName": "系马桩",
+      "poiImgExtra": {},
+      "extraServiceTags": [],
+      "rotationTags": [],
+      "smartTags": [
+        {
+          "icon": "",
+          "text": {
+            "content": "全城火锅人气榜第1名",
+            "color": "#be9e4d",
+            "backgroundColor": "#fbf4e4",
+            "borderColor": ""
+          }
+        }
+      ],
+      "preferentialInfo": {
+        "hiddenNumber": 0,
+        "maidan": {
+          "defaultShowNum": 2,
+          "entries": [
+            {
+              "discount": "",
+              "discountColor": "#38c2aa",
+              "content": "双人餐85元",
+              "icon": "https://p1.meituan.net/travelcube/734c7f818631a0aa8e49a814b90b1b771242.png",
+              "promotion": "",
+              "hasBorder": 0,
+              "borderColor": ""
+            },
+            {
+              "discount": "",
+              "discountColor": "#ff8822",
+              "content": "88代100元",
+              "icon": "http://p1.meituan.net/codeman/5b202af2ecf82c69a433a246296ca4791278.png",
+              "promotion": "立减8",
+              "hasBorder": 0,
+              "borderColor": ""
+            }
+          ]
+        },
+        "combo": {
+          "defaultShowNum": 0,
+          "entries": []
+        }
+      },
+      "ctPoi": "327362217440331927674431848535865745255_a163415968_c0_e405523281197425124",
+      "extraServiceIcons": [],
+      "distance": ""
+    },
+    {
+      "avgPrice": 50,
+      "avgScore": 4.7,
+      "cateName": "融合烤肉",
+      "channel": "food",
+      "showType": "",
+      "frontImg": "https://img.meituan.net/msmerchant/0d963526f1ec2445a5ef1b879beb240191855.jpg",
+      "lat": 28.69221,
+      "lng": 115.84789,
+      "name": "鲁班烤肉（南昌红谷滩万达店）",
+      "poiid": "1180171548",
+      "areaName": "万达广场",
+      "poiImgExtra": {},
+      "extraServiceTags": [],
+      "rotationTags": [],
+      "smartTags": [
+        {
+          "icon": "",
+          "text": {
+            "content": "万达广场烧烤龙虾人气榜第4名",
+            "color": "#be9e4d",
+            "backgroundColor": "#fbf4e4",
+            "borderColor": ""
+          }
+        }
+      ],
+      "preferentialInfo": {
+        "hiddenNumber": 0,
+        "maidan": {
+          "defaultShowNum": 2,
+          "entries": [
+            {
+              "discount": "",
+              "discountColor": "#38c2aa",
+              "content": "2-3人餐88元起，3-4人餐139元，4-6人餐188元",
+              "icon": "https://p1.meituan.net/travelcube/734c7f818631a0aa8e49a814b90b1b771242.png",
+              "promotion": "",
+              "hasBorder": 0,
+              "borderColor": ""
+            },
+            {
+              "discount": "",
+              "discountColor": "#ff8822",
+              "content": "78代100元",
+              "icon": "http://p1.meituan.net/codeman/5b202af2ecf82c69a433a246296ca4791278.png",
+              "hasBorder": 0,
+              "borderColor": ""
+            }
+          ]
+        },
+        "combo": {
+          "defaultShowNum": 0,
+          "entries": []
+        }
+      },
+      "ctPoi": "327362217440331927674431848535865745255_a1180171548_c1_e405523281197425124",
+      "extraServiceIcons": [],
+      "distance": ""
+    },
+    {
+      "avgPrice": 43,
+      "avgScore": 4.6,
+      "cateName": "猪肚鸡火锅",
+      "channel": "food",
+      "showType": "",
+      "frontImg": "https://img.meituan.net/msmerchant/a7c8c125fab3fe0a96a8ba0e78edaac2231742.jpg",
+      "lat": 28.677329,
+      "lng": 115.940713,
+      "name": "客家人猪肚鸡（上海北路店）",
+      "poiid": "1975085263",
+      "areaName": "南昌大学",
+      "reportMessage": {
+        "adsClickUrl": "https://mlog.dianping.com/api/cpv/billing?mbid=1.0&productid=74&display_id=50017&bg=0&pctr=0.036906710310965624&ad_cj=lnRKBIs05e_fuSD6Fxr8axYkh0MdG3tbygewCK509bN3YsPoy0U13KBPgo97Fc5wv9xLXseK2Gn4P4zOtUe1RL28Pk-EiLweR74qQJm1CxTFMw5vT89YDALegnlTsjK3wuJEg2M5ABsOYxX45hw&ad_ci=lnRKDIok6aaX6zjuTxX0e0VzxR9ATVRAx1nkDKhv9a02MYe8iFQEwa0GydYuHsl9utBdFJfJujOzONibvketQar_YgvFy7wGd6NzSJyxAxTWYFAYK7tTDlWAjikJtTA&discount=1&rankScore=3.84688980551804E-4&mtlaunch_city_id=83&bu=28&category_id=110&pos=1&mtuser_id64=0&pcvr=0.0018805970149253736&client_version=8.3.0&mtdpid=1c7250ef987f4e639d8b.1616478057.1.0.0&bottomprice=1.0&user_agent=touch&launch_city_id=0&mtcategory_ids=1&sver=2&AdExpPath=18-338-2099,3-169-830,3-287-1751,3-140-565,3-50-100,3-61-1769,3-164-792,3-227-1297,3-12-28,18-293-1778,3-201-1096,3-296-1803&bottomfen=100&mtuser_id=0&adsCtrStrategy=SelectBaseline&page_city_id=0&entityplat=2&ad_v=2&mtadshop_id=1975085263&mtpage_city_id=83&adidx=3&act=2",
+        "adsImpressionUrl": "https://mlog.dianping.com/api/cpv/action?mbid=1.0&productid=74&display_id=50017&bg=0&pctr=0.036906710310965624&ad_cj=lnRKBIs05e_fuSD6Fxr8axYkh0MdG3tbygewCK509bN3YsPoy0U13KBPgo97Fc5wv9xLXseK2Gn4P4zOtUe1RL28Pk-EiLweR74qQJm1CxTFMw5vT89YDALegnlTsjK3wuJEg2M5ABsOYxX45hw&ad_ci=lnRKDIok6aaX6zjuTxX0e0VzxR9ATVRAx1nkDKhv9a02MYe8iFQEwa0GydYuHsl9utBdFJfJujOzONibvketQar_YgvFy7wGd6NzSJyxAxTWYFAYK7tTDlWAjikJtTA&discount=1&rankScore=3.84688980551804E-4&mtlaunch_city_id=83&bu=28&category_id=110&pos=1&mtuser_id64=0&pcvr=0.0018805970149253736&client_version=8.3.0&mtdpid=1c7250ef987f4e639d8b.1616478057.1.0.0&bottomprice=1.0&user_agent=touch&launch_city_id=0&mtcategory_ids=1&sver=2&AdExpPath=18-338-2099,3-169-830,3-287-1751,3-140-565,3-50-100,3-61-1769,3-164-792,3-227-1297,3-12-28,18-293-1778,3-201-1096,3-296-1803&bottomfen=100&mtuser_id=0&adsCtrStrategy=SelectBaseline&page_city_id=0&entityplat=2&ad_v=2&mtadshop_id=1975085263&mtpage_city_id=83&adidx=3&act=3"
+      },
+      "poiImgExtra": {
+        "topRight": {
+          "icon": "",
+          "text": {
+            "content": "广告",
+            "color": "",
+            "backgroundColor": ""
+          }
+        }
+      },
+      "extraServiceTags": [
+        {
+          "icon": "",
+          "text": {
+            "content": "支持买单",
+            "color": "#6cbab2",
+            "backgroundColor": ""
+          }
+        }
+      ],
+      "rotationTags": [],
+      "smartTags": [
+        {
+          "icon": "",
+          "text": {
+            "content": "南昌大学火锅人气榜第1名",
+            "color": "#be9e4d",
+            "backgroundColor": "#fbf4e4",
+            "borderColor": ""
+          }
+        },
+        {
+          "icon": "",
+          "text": {
+            "content": "新店特惠",
+            "color": "#be9e4d",
+            "backgroundColor": "#fbf4e4",
+            "borderColor": ""
+          }
+        }
+      ],
+      "preferentialInfo": {
+        "hiddenNumber": 0,
+        "maidan": {
+          "defaultShowNum": 2,
+          "entries": [
+            {
+              "discount": "",
+              "discountColor": "#38c2aa",
+              "content": "双人餐68元起，3-4人餐199元",
+              "icon": "https://p1.meituan.net/travelcube/734c7f818631a0aa8e49a814b90b1b771242.png",
+              "promotion": "立减50",
+              "hasBorder": 0,
+              "borderColor": ""
+            },
+            {
+              "discount": "",
+              "discountColor": "#ff8822",
+              "content": "16代20元，10代20元",
+              "icon": "http://p1.meituan.net/codeman/5b202af2ecf82c69a433a246296ca4791278.png",
+              "hasBorder": 0,
+              "borderColor": ""
+            }
+          ]
+        },
+        "combo": {
+          "defaultShowNum": 0,
+          "entries": []
+        }
+      },
+      "ctPoi": "004584292826848322752040319172543177889_a1975085263_c2_e405523281197425124_v5497507467632846900__1000",
+      "extraServiceIcons": [],
+      "distance": ""
+    },
+    {
+      "avgPrice": 42,
+      "avgScore": 5,
+      "cateName": "特色火锅",
+      "channel": "food",
+      "showType": "",
+      "frontImg": "https://img.meituan.net/msmerchant/781ec28af2a9ee022767e2475affdbfc450859.jpg",
+      "lat": 28.635413,
+      "lng": 115.906324,
+      "name": "哎 你的咔普 杯杯火锅（五度智慧广场店）",
+      "poiid": "1337294315",
+      "areaName": "京山",
+      "poiImgExtra": {},
+      "extraServiceTags": [],
+      "rotationTags": [],
+      "smartTags": [
+        {
+          "icon": "",
+          "text": {
+            "content": "青云谱区火锅人气榜第1名",
+            "color": "#be9e4d",
+            "backgroundColor": "#fbf4e4",
+            "borderColor": ""
+          }
+        },
+        {
+          "icon": "",
+          "text": {
+            "content": "新店特惠",
+            "color": "#be9e4d",
+            "backgroundColor": "#fbf4e4",
+            "borderColor": ""
+          }
+        }
+      ],
+      "preferentialInfo": {
+        "hiddenNumber": 0,
+        "maidan": {
+          "defaultShowNum": 2,
+          "entries": [
+            {
+              "discount": "",
+              "discountColor": "#38c2aa",
+              "content": "2-3人餐85元，4人餐153元",
+              "icon": "https://p1.meituan.net/travelcube/734c7f818631a0aa8e49a814b90b1b771242.png",
+              "promotion": "",
+              "hasBorder": 0,
+              "borderColor": ""
+            },
+            {
+              "discount": "",
+              "discountColor": "#ff8822",
+              "content": "34代50元",
+              "icon": "http://p1.meituan.net/codeman/5b202af2ecf82c69a433a246296ca4791278.png",
+              "hasBorder": 0,
+              "borderColor": ""
+            }
+          ]
+        },
+        "combo": {
+          "defaultShowNum": 0,
+          "entries": []
+        }
+      },
+      "ctPoi": "327362217440331927674431848535865745255_a1337294315_c3_e405523281197425124",
+      "extraServiceIcons": [],
+      "distance": ""
+    },
+    {
+      "avgPrice": 8,
+      "avgScore": 5,
+      "cateName": "奶茶/果汁",
+      "channel": "food",
+      "showType": "",
+      "frontImg": "//p0.meituan.net/bbia/aa7f1ae4f2ebe44ebdb1c203b0a1a24d160026.jpg",
+      "lat": 28.672088,
+      "lng": 115.99719,
+      "name": "蜜雪冰城（创新二路店）",
+      "poiid": "164808852",
+      "areaName": "瑶湖区",
+      "poiImgExtra": {},
+      "extraServiceTags": [],
+      "rotationTags": [],
+      "smartTags": [
+        {
+          "icon": "",
+          "text": {
+            "content": "南昌县甜点饮品人气榜第1名",
+            "color": "#be9e4d",
+            "backgroundColor": "#fbf4e4",
+            "borderColor": ""
+          }
+        },
+        {
+          "icon": "",
+          "text": {
+            "content": "回头客多",
+            "color": "#be9e4d",
+            "backgroundColor": "#fbf4e4",
+            "borderColor": ""
+          }
+        }
+      ],
+      "preferentialInfo": {
+        "hiddenNumber": 0,
+        "maidan": {
+          "defaultShowNum": 1,
+          "entries": [
+            {
+              "discount": "",
+              "discountColor": "#38c2aa",
+              "content": "11 份柠檬水39.93元，2元魔天/华夫冰淇淋，3元四季春茶，3元红茶，5元珍珠奶茶，5元棒打鲜橙，5元芒果雪王大圣代，5.5元雪顶咖啡，6元黑糖珍珠大圣代，6元草莓摇摇奶昔，6元蜜桃四季春，6.9元三拼霸霸奶茶，6.9元杨枝甘露，9元芝士奶盖绿茶，11 份珍珠奶茶59.95元",
+              "icon": "https://p1.meituan.net/travelcube/734c7f818631a0aa8e49a814b90b1b771242.png",
+              "promotion": "立减6.89",
+              "hasBorder": 0,
+              "borderColor": ""
+            }
+          ]
+        },
+        "combo": {
+          "defaultShowNum": 0,
+          "entries": []
+        }
+      },
+      "ctPoi": "327362217440331927674431848535865745255_a164808852_c4_e405523281197425124",
+      "extraServiceIcons": [],
+      "distance": ""
+    },
+    {
+      "avgPrice": 38,
+      "avgScore": 4.9,
+      "cateName": "潮汕牛肉火锅",
+      "channel": "food",
+      "showType": "",
+      "frontImg": "https://img.meituan.net/msmerchant/8b365adfd38ffbf2bf43e5d009a7bb151046826.jpg",
+      "lat": 28.68344,
+      "lng": 115.88696,
+      "name": "古乐牛香·鲜牛肉牛杂火锅（胜利路步行街店）",
+      "poiid": "1635504353",
+      "areaName": "胜利路",
+      "poiImgExtra": {},
+      "extraServiceTags": [
+        {
+          "icon": "",
+          "text": {
+            "content": "支持买单",
+            "color": "#6cbab2",
+            "backgroundColor": ""
+          }
+        }
+      ],
+      "rotationTags": [],
+      "smartTags": [
+        {
+          "icon": "",
+          "text": {
+            "content": "胜利路火锅人气榜第1名",
+            "color": "#be9e4d",
+            "backgroundColor": "#fbf4e4",
+            "borderColor": ""
+          }
+        },
+        {
+          "icon": "",
+          "text": {
+            "content": "新店特惠",
+            "color": "#be9e4d",
+            "backgroundColor": "#fbf4e4",
+            "borderColor": ""
+          }
+        }
+      ],
+      "preferentialInfo": {
+        "hiddenNumber": 0,
+        "maidan": {
+          "defaultShowNum": 2,
+          "entries": [
+            {
+              "discount": "",
+              "discountColor": "#38c2aa",
+              "content": "单人餐6.99元起，双人餐99元，3-4人餐149元，6人餐188元",
+              "icon": "https://p1.meituan.net/travelcube/734c7f818631a0aa8e49a814b90b1b771242.png",
+              "promotion": "",
+              "hasBorder": 0,
+              "borderColor": ""
+            },
+            {
+              "discount": "",
+              "discountColor": "#ff8822",
+              "content": "72代100元",
+              "icon": "http://p1.meituan.net/codeman/5b202af2ecf82c69a433a246296ca4791278.png",
+              "promotion": "立减8",
+              "hasBorder": 0,
+              "borderColor": ""
+            }
+          ]
+        },
+        "combo": {
+          "defaultShowNum": 0,
+          "entries": []
+        }
+      },
+      "ctPoi": "327362217440331927674431848535865745255_a1635504353_c5_e405523281197425124",
+      "extraServiceIcons": [],
+      "distance": ""
+    },
+    {
+      "avgPrice": 17,
+      "avgScore": 4.7,
+      "cateName": "炸鸡炸串",
+      "channel": "food",
+      "showType": "",
+      "frontImg": "//p0.meituan.net/bbia/909f17f03c7afa6336062f01f48205bb69776.jpg",
+      "lat": 28.621742,
+      "lng": 115.933915,
+      "name": "正新鸡排（青云店）",
+      "poiid": "96923602",
+      "areaName": "昌南",
+      "poiImgExtra": {},
+      "extraServiceTags": [],
+      "rotationTags": [],
+      "smartTags": [
+        {
+          "icon": "",
+          "text": {
+            "content": "昌南美食人气榜第4名",
+            "color": "#be9e4d",
+            "backgroundColor": "#fbf4e4",
+            "borderColor": ""
+          }
+        }
+      ],
+      "preferentialInfo": {
+        "hiddenNumber": 0,
+        "maidan": {
+          "defaultShowNum": 1,
+          "entries": [
+            {
+              "discount": "",
+              "discountColor": "#38c2aa",
+              "content": "9.9元香酥脆骨，9.9元香酥鸡柳，10.9元(到店吃)正新鸡排1份，12.9元(到店吃)正新鸡排1份+饮品1杯，13.9元(到店吃)鸡排1份+饮品1杯",
+              "icon": "https://p1.meituan.net/travelcube/734c7f818631a0aa8e49a814b90b1b771242.png",
+              "promotion": "立减10.89",
+              "hasBorder": 0,
+              "borderColor": ""
+            }
+          ]
+        },
+        "combo": {
+          "defaultShowNum": 0,
+          "entries": []
+        }
+      },
+      "ctPoi": "327362217440331927674431848535865745255_a96923602_c6_e405523281197425124",
+      "extraServiceIcons": [],
+      "distance": ""
+    },
+    {
+      "avgPrice": 88,
+      "avgScore": 4,
+      "cateName": "小龙虾",
+      "channel": "food",
+      "showType": "",
+      "frontImg": "https://img.meituan.net/msmerchant/b063134578f0c487177adc10b368019f61306.jpg",
+      "lat": 28.655007,
+      "lng": 115.923032,
+      "name": "羊庄•龙虾•大排档（解放路店）",
+      "poiid": "994135110",
+      "areaName": "解放西路",
+      "reportMessage": {
+        "adsClickUrl": "https://mlog.dianping.com/api/cpv/billing?mbid=1.06&productid=74&display_id=50017&bg=0&pctr=0.03568030690537085&ad_cj=hSuV3a2XzODpAhrymREle8bFdnqG1VAVNba5qy-yEqC9LIQ2um2H8b1lJEEoQG4vyPNLJMA74W_K-TMuZ7zR1wog-i68iCRUdkaHAgMx9sHsfiWBEIsl_GMazckLEwmWb4Px8pM-GgsKnYOGQQ&ad_ci=hSuV1ayHwKmhUALmwR4sa5KRMyHdg38OOOjlryqtEbP4fMZ3unes8a0hfB0lTm8tz_ZYZ5R6k2TO-DMuf73RxEl0sm7t3SNncFaHAgc48MP6Knj0df4rqjgamJEMR0s&discount=1&rankScore=3.688028438055292E-4&mtlaunch_city_id=83&bu=28&category_id=219&pos=1&mtuser_id64=0&pcvr=0.0011900311526479752&client_version=8.3.0&mtdpid=1c7250ef987f4e639d8b.1616478057.1.0.0&bottomprice=1.0&user_agent=touch&launch_city_id=0&mtcategory_ids=1&sver=2&AdExpPath=18-338-2099,3-169-830,3-287-1751,3-140-565,3-50-100,3-61-1769,3-164-792,3-227-1297,3-12-28,18-293-1778,3-201-1096,3-296-1803&bottomfen=100&mtuser_id=0&adsCtrStrategy=SelectBaseline&page_city_id=0&entityplat=2&ad_v=2&mtadshop_id=994135110&mtpage_city_id=83&adidx=8&act=2",
+        "adsImpressionUrl": "https://mlog.dianping.com/api/cpv/action?mbid=1.06&productid=74&display_id=50017&bg=0&pctr=0.03568030690537085&ad_cj=hSuV3a2XzODpAhrymREle8bFdnqG1VAVNba5qy-yEqC9LIQ2um2H8b1lJEEoQG4vyPNLJMA74W_K-TMuZ7zR1wog-i68iCRUdkaHAgMx9sHsfiWBEIsl_GMazckLEwmWb4Px8pM-GgsKnYOGQQ&ad_ci=hSuV1ayHwKmhUALmwR4sa5KRMyHdg38OOOjlryqtEbP4fMZ3unes8a0hfB0lTm8tz_ZYZ5R6k2TO-DMuf73RxEl0sm7t3SNncFaHAgc48MP6Knj0df4rqjgamJEMR0s&discount=1&rankScore=3.688028438055292E-4&mtlaunch_city_id=83&bu=28&category_id=219&pos=1&mtuser_id64=0&pcvr=0.0011900311526479752&client_version=8.3.0&mtdpid=1c7250ef987f4e639d8b.1616478057.1.0.0&bottomprice=1.0&user_agent=touch&launch_city_id=0&mtcategory_ids=1&sver=2&AdExpPath=18-338-2099,3-169-830,3-287-1751,3-140-565,3-50-100,3-61-1769,3-164-792,3-227-1297,3-12-28,18-293-1778,3-201-1096,3-296-1803&bottomfen=100&mtuser_id=0&adsCtrStrategy=SelectBaseline&page_city_id=0&entityplat=2&ad_v=2&mtadshop_id=994135110&mtpage_city_id=83&adidx=8&act=3"
+      },
+      "poiImgExtra": {
+        "topRight": {
+          "icon": "",
+          "text": {
+            "content": "广告",
+            "color": "",
+            "backgroundColor": ""
+          }
+        }
+      },
+      "extraServiceTags": [
+        {
+          "icon": "",
+          "text": {
+            "content": "支持买单",
+            "color": "#6cbab2",
+            "backgroundColor": ""
+          }
+        },
+        {
+          "icon": "",
+          "text": {
+            "content": "预订",
+            "color": "#6cbab2",
+            "backgroundColor": ""
+          }
+        }
+      ],
+      "shopKeeperSay": {
+        "icon": "http://p1.meituan.net/codeman/7df7e1db853b6ef52c412f953aa58b82362.png",
+        "text": {
+          "content": "掌柜说:羊肉滚三滚，神仙都站不稳",
+          "color": "#999999",
+          "backgroundColor": ""
+        }
+      },
+      "rotationTags": [
+        {
+          "icon": "http://p1.meituan.net/codeman/7df7e1db853b6ef52c412f953aa58b82362.png",
+          "text": {
+            "content": "掌柜说:羊肉滚三滚，神仙都站不稳",
+            "color": "#999999",
+            "backgroundColor": ""
+          }
+        }
+      ],
+      "preferentialInfo": {
+        "hiddenNumber": 0,
+        "maidan": {
+          "defaultShowNum": 2,
+          "entries": [
+            {
+              "discount": "",
+              "discountColor": "#38c2aa",
+              "content": "单人餐45.6元，2-3人餐138元，4-6人餐238元",
+              "icon": "https://p1.meituan.net/travelcube/734c7f818631a0aa8e49a814b90b1b771242.png",
+              "promotion": "",
+              "hasBorder": 0,
+              "borderColor": ""
+            },
+            {
+              "discount": "",
+              "discountColor": "#ff8822",
+              "content": "95代100元",
+              "icon": "http://p1.meituan.net/codeman/5b202af2ecf82c69a433a246296ca4791278.png",
+              "hasBorder": 0,
+              "borderColor": ""
+            }
+          ]
+        },
+        "combo": {
+          "defaultShowNum": 0,
+          "entries": []
+        }
+      },
+      "ctPoi": "004584292826848322752040319172543177889_a994135110_c7_e405523281197425124_v5497507467632846900__1000",
+      "extraServiceIcons": [],
+      "distance": ""
+    },
+    {
+      "avgPrice": 112,
+      "avgScore": 4.6,
+      "cateName": "综合自助",
+      "channel": "food",
+      "showType": "",
+      "frontImg": "https://img.meituan.net/msmerchant/114eaf5815d2255faf8ed29d1dbce548548415.jpg",
+      "lat": 28.691835,
+      "lng": 115.848931,
+      "name": "亚马逊环球美食百汇（红谷滩万达店）",
+      "poiid": "63612875",
+      "areaName": "万达广场",
+      "poiImgExtra": {},
+      "extraServiceTags": [],
+      "rotationTags": [],
+      "smartTags": [
+        {
+          "icon": "",
+          "text": {
+            "content": "全城自助餐人气榜第1名",
+            "color": "#be9e4d",
+            "backgroundColor": "#fbf4e4",
+            "borderColor": ""
+          }
+        },
+        {
+          "icon": "",
+          "text": {
+            "content": "回头客多",
+            "color": "#be9e4d",
+            "backgroundColor": "#fbf4e4",
+            "borderColor": ""
+          }
+        }
+      ],
+      "preferentialInfo": {
+        "hiddenNumber": 0,
+        "maidan": {
+          "defaultShowNum": 1,
+          "entries": [
+            {
+              "discount": "",
+              "discountColor": "#38c2aa",
+              "content": "单人自助111元起，单人午餐116元，3人自助359元，4人午餐490元，4人自助566元，10人自助1356元",
+              "icon": "https://p1.meituan.net/travelcube/734c7f818631a0aa8e49a814b90b1b771242.png",
+              "promotion": "",
+              "hasBorder": 0,
+              "borderColor": ""
+            }
+          ]
+        },
+        "combo": {
+          "defaultShowNum": 0,
+          "entries": []
+        }
+      },
+      "ctPoi": "327362217440331927674431848535865745255_a63612875_c8_e405523281197425124",
+      "extraServiceIcons": [],
+      "distance": ""
+    },
+    {
+      "avgPrice": 45,
+      "avgScore": 4.6,
+      "cateName": "日本料理",
+      "channel": "food",
+      "showType": "",
+      "frontImg": "https://img.meituan.net/msmerchant/7564d59de2e58d4a304b75957223977c368497.jpg",
+      "lat": 28.690566,
+      "lng": 115.84772,
+      "name": "丼坊 丼作屋 DONG FANG（熙梦里店）",
+      "poiid": "744568108",
+      "areaName": "万达广场",
+      "poiImgExtra": {},
+      "extraServiceTags": [],
+      "rotationTags": [],
+      "smartTags": [
+        {
+          "icon": "",
+          "text": {
+            "content": "全城异国料理人气榜第1名",
+            "color": "#be9e4d",
+            "backgroundColor": "#fbf4e4",
+            "borderColor": ""
+          }
+        },
+        {
+          "icon": "",
+          "text": {
+            "content": "回头客多",
+            "color": "#be9e4d",
+            "backgroundColor": "#fbf4e4",
+            "borderColor": ""
+          }
+        }
+      ],
+      "preferentialInfo": {
+        "hiddenNumber": 0,
+        "maidan": {
+          "defaultShowNum": 2,
+          "entries": [
+            {
+              "discount": "",
+              "discountColor": "#38c2aa",
+              "content": "单人餐4元起",
+              "icon": "https://p1.meituan.net/travelcube/734c7f818631a0aa8e49a814b90b1b771242.png",
+              "promotion": "立减6",
+              "hasBorder": 0,
+              "borderColor": ""
+            },
+            {
+              "discount": "",
+              "discountColor": "#ff8822",
+              "content": "45代50元",
+              "icon": "http://p1.meituan.net/codeman/5b202af2ecf82c69a433a246296ca4791278.png",
+              "hasBorder": 0,
+              "borderColor": ""
+            }
+          ]
+        },
+        "combo": {
+          "defaultShowNum": 0,
+          "entries": []
+        }
+      },
+      "ctPoi": "327362217440331927674431848535865745255_a744568108_c9_e405523281197425124",
+      "extraServiceIcons": [],
+      "distance": ""
+    },
+    {
+      "avgPrice": 40,
+      "avgScore": 5,
+      "cateName": "海鲜",
+      "channel": "food",
+      "showType": "",
+      "frontImg": "https://img.meituan.net/msmerchant/901f1eb4990f0d20f9ccdbdee8f6a650341607.jpg",
+      "lat": 28.673643,
+      "lng": 116.017364,
+      "name": "辣小蟹·小海鲜（新力都荟店）",
+      "poiid": "1692974843",
+      "areaName": "瑶湖区",
+      "poiImgExtra": {},
+      "extraServiceTags": [
+        {
+          "icon": "",
+          "text": {
+            "content": "支持买单",
+            "color": "#6cbab2",
+            "backgroundColor": ""
+          }
+        }
+      ],
+      "rotationTags": [],
+      "smartTags": [
+        {
+          "icon": "",
+          "text": {
+            "content": "瑶湖风景区地方菜人气榜第1名",
+            "color": "#be9e4d",
+            "backgroundColor": "#fbf4e4",
+            "borderColor": ""
+          }
+        },
+        {
+          "icon": "",
+          "text": {
+            "content": "新店特惠",
+            "color": "#be9e4d",
+            "backgroundColor": "#fbf4e4",
+            "borderColor": ""
+          }
+        }
+      ],
+      "preferentialInfo": {
+        "hiddenNumber": 0,
+        "maidan": {
+          "defaultShowNum": 2,
+          "entries": [
+            {
+              "discount": "",
+              "discountColor": "#38c2aa",
+              "content": "双人餐12.5元起，3人餐99.9元，4人餐137元",
+              "icon": "https://p1.meituan.net/travelcube/734c7f818631a0aa8e49a814b90b1b771242.png",
+              "promotion": "开业减10",
+              "hasBorder": 0,
+              "borderColor": ""
+            },
+            {
+              "discount": "",
+              "discountColor": "#ff8822",
+              "content": "29.9代50元",
+              "icon": "http://p1.meituan.net/codeman/5b202af2ecf82c69a433a246296ca4791278.png",
+              "hasBorder": 0,
+              "borderColor": ""
+            }
+          ]
+        },
+        "combo": {
+          "defaultShowNum": 0,
+          "entries": []
+        }
+      },
+      "ctPoi": "327362217440331927674431848535865745255_a1692974843_c10_e405523281197425124",
+      "extraServiceIcons": [],
+      "distance": ""
+    },
+    {
+      "avgPrice": 22,
+      "avgScore": 4.9,
+      "cateName": "中式糕饼",
+      "channel": "food",
+      "showType": "",
+      "frontImg": "https://img.meituan.net/msmerchant/d186d36da4b1f7e6552b247165509318136201.jpg",
+      "lat": 28.692025,
+      "lng": 115.84799,
+      "name": "吴酥生宫廷酥饼（红谷滩万达金街店）",
+      "poiid": "655156448",
+      "areaName": "昌北经济开发区",
+      "poiImgExtra": {},
+      "extraServiceTags": [
+        {
+          "icon": "",
+          "text": {
+            "content": "支持买单",
+            "color": "#6cbab2",
+            "backgroundColor": ""
+          }
+        }
+      ],
+      "rotationTags": [],
+      "smartTags": [
+        {
+          "icon": "",
+          "text": {
+            "content": "全城甜点饮品人气榜第1名",
+            "color": "#be9e4d",
+            "backgroundColor": "#fbf4e4",
+            "borderColor": ""
+          }
+        },
+        {
+          "icon": "",
+          "text": {
+            "content": "回头客多",
+            "color": "#be9e4d",
+            "backgroundColor": "#fbf4e4",
+            "borderColor": ""
+          }
+        }
+      ],
+      "preferentialInfo": {
+        "hiddenNumber": 0,
+        "maidan": {
+          "defaultShowNum": 1,
+          "entries": [
+            {
+              "discount": "",
+              "discountColor": "#38c2aa",
+              "content": "8.8元网红桃酥12个，9.1元香草冰淇淋泡芙，10元资溪面包，12.4元提子麻薯，14.8元网红肉松小贝",
+              "icon": "https://p1.meituan.net/travelcube/734c7f818631a0aa8e49a814b90b1b771242.png",
+              "promotion": "立减5",
+              "hasBorder": 0,
+              "borderColor": ""
+            }
+          ]
+        },
+        "combo": {
+          "defaultShowNum": 0,
+          "entries": []
+        }
+      },
+      "ctPoi": "327362217440331927674431848535865745255_a655156448_c11_e405523281197425124",
+      "extraServiceIcons": [],
+      "distance": ""
+    },
+    {
+      "avgPrice": 60,
+      "avgScore": 4.9,
+      "cateName": "烧烤",
+      "channel": "food",
+      "showType": "",
+      "frontImg": "https://img.meituan.net/msmerchant/fd5ea91c50f627141b84cdad7a7b338b1301261.jpg",
+      "lat": 28.692038,
+      "lng": 115.903826,
+      "name": "又一家烧烤（东湖店）",
+      "poiid": "195905749",
+      "areaName": "青山路/青山湖风景区",
+      "reportMessage": {
+        "adsClickUrl": "https://mlog.dianping.com/api/cpv/billing?mbid=1.17&productid=74&display_id=50017&bg=0&pctr=0.03284073107049609&ad_cj=iH8s6Ubc68Hm04zT4fmT_z2oSMkdIOV-_BaVZlVJO_CZvHrHUCVQn2Uoys1m7PpqKNbj21mHEFGGzTMrS89rhqCW0LQbRn02DvwsPIGLg2ITe_8Vmq1TAJzavDmv2O7rEg_F0m7VgAtccZmltw&ad_ci=iH8s4UfM54iugZTHufab7GX1CpVBdspl8UjBaFZeO_eTun3XBHkRxylgkplo6uUrcJSxiRnhX1fSmz4rVchqkuPV06QPYWAEAqUgP4SEgWYSdf4Xi-gMXdDTvzCv2f-uGyXUwxCJ1Qhbc5f2ttI&discount=1&rankScore=3.4534066713017816E-4&mtlaunch_city_id=83&bu=2&category_id=508&pos=1&mtuser_id64=0&pcvr=2.4E-4&client_version=8.3.0&mtdpid=1c7250ef987f4e639d8b.1616478057.1.0.0&bottomprice=1.0&user_agent=touch&launch_city_id=0&mtcategory_ids=1&sver=2&AdExpPath=18-338-2099,3-169-830,3-287-1751,3-140-565,3-50-100,3-61-1769,3-164-792,3-227-1297,3-12-28,18-293-1778,3-201-1096,3-296-1803&bottomfen=100&mtuser_id=0&adsCtrStrategy=SelectBaseline&page_city_id=0&entityplat=2&ad_v=2&mtadshop_id=195905749&mtpage_city_id=83&adidx=13&act=2",
+        "adsImpressionUrl": "https://mlog.dianping.com/api/cpv/action?mbid=1.17&productid=74&display_id=50017&bg=0&pctr=0.03284073107049609&ad_cj=iH8s6Ubc68Hm04zT4fmT_z2oSMkdIOV-_BaVZlVJO_CZvHrHUCVQn2Uoys1m7PpqKNbj21mHEFGGzTMrS89rhqCW0LQbRn02DvwsPIGLg2ITe_8Vmq1TAJzavDmv2O7rEg_F0m7VgAtccZmltw&ad_ci=iH8s4UfM54iugZTHufab7GX1CpVBdspl8UjBaFZeO_eTun3XBHkRxylgkplo6uUrcJSxiRnhX1fSmz4rVchqkuPV06QPYWAEAqUgP4SEgWYSdf4Xi-gMXdDTvzCv2f-uGyXUwxCJ1Qhbc5f2ttI&discount=1&rankScore=3.4534066713017816E-4&mtlaunch_city_id=83&bu=2&category_id=508&pos=1&mtuser_id64=0&pcvr=2.4E-4&client_version=8.3.0&mtdpid=1c7250ef987f4e639d8b.1616478057.1.0.0&bottomprice=1.0&user_agent=touch&launch_city_id=0&mtcategory_ids=1&sver=2&AdExpPath=18-338-2099,3-169-830,3-287-1751,3-140-565,3-50-100,3-61-1769,3-164-792,3-227-1297,3-12-28,18-293-1778,3-201-1096,3-296-1803&bottomfen=100&mtuser_id=0&adsCtrStrategy=SelectBaseline&page_city_id=0&entityplat=2&ad_v=2&mtadshop_id=195905749&mtpage_city_id=83&adidx=13&act=3"
+      },
+      "poiImgExtra": {
+        "topRight": {
+          "icon": "",
+          "text": {
+            "content": "广告",
+            "color": "",
+            "backgroundColor": ""
+          }
+        }
+      },
+      "extraServiceTags": [],
+      "shopKeeperSay": {
+        "icon": "http://p1.meituan.net/codeman/7df7e1db853b6ef52c412f953aa58b82362.png",
+        "text": {
+          "content": "掌柜说:小龙虾爱上蛙，我爱又一家",
+          "color": "#999999",
+          "backgroundColor": ""
+        }
+      },
+      "rotationTags": [
+        {
+          "icon": "http://p1.meituan.net/codeman/7df7e1db853b6ef52c412f953aa58b82362.png",
+          "text": {
+            "content": "掌柜说:小龙虾爱上蛙，我爱又一家",
+            "color": "#999999",
+            "backgroundColor": ""
+          }
+        }
+      ],
+      "preferentialInfo": {
+        "hiddenNumber": 0,
+        "maidan": {
+          "defaultShowNum": 1,
+          "entries": [
+            {
+              "discount": "",
+              "discountColor": "",
+              "content": "买单立享9.8折",
+              "icon": "http://p1.meituan.net/codeman/3b56ab9f3824afb2781e12bd2fbb0a761558.png",
+              "promotion": "",
+              "hasBorder": 1,
+              "borderColor": "#FF8822"
+            }
+          ]
+        },
+        "combo": {
+          "defaultShowNum": 0,
+          "entries": []
+        }
+      },
+      "ctPoi": "004584292826848322752040319172543177889_a195905749_c12_e405523281197425124_v5497507467632846900__1000",
+      "extraServiceIcons": [],
+      "distance": ""
+    },
+    {
+      "avgPrice": 61,
+      "avgScore": 4.6,
+      "cateName": "日式自助",
+      "channel": "food",
+      "showType": "",
+      "frontImg": "https://img.meituan.net/msmerchant/958cfcbce3554c8badc44af8f452bf27159938.jpg",
+      "lat": 28.735238,
+      "lng": 115.84448,
+      "name": "忆品嘉华自助烤肉火锅海鲜牛排（经开天虹店）",
+      "poiid": "1189650041",
+      "areaName": "下罗",
+      "poiImgExtra": {},
+      "extraServiceTags": [
+        {
+          "icon": "",
+          "text": {
+            "content": "支持买单",
+            "color": "#6cbab2",
+            "backgroundColor": ""
+          }
+        }
+      ],
+      "rotationTags": [],
+      "smartTags": [
+        {
+          "icon": "",
+          "text": {
+            "content": "青山湖区自助餐人气榜第1名",
+            "color": "#be9e4d",
+            "backgroundColor": "#fbf4e4",
+            "borderColor": ""
+          }
+        }
+      ],
+      "preferentialInfo": {
+        "hiddenNumber": 0,
+        "maidan": {
+          "defaultShowNum": 1,
+          "entries": [
+            {
+              "discount": "",
+              "discountColor": "#38c2aa",
+              "content": "单人自助56.9元起，单人午餐59.9元",
+              "icon": "https://p1.meituan.net/travelcube/734c7f818631a0aa8e49a814b90b1b771242.png",
+              "promotion": "立减8",
+              "hasBorder": 0,
+              "borderColor": ""
+            }
+          ]
+        },
+        "combo": {
+          "defaultShowNum": 0,
+          "entries": []
+        }
+      },
+      "ctPoi": "327362217440331927674431848535865745255_a1189650041_c13_e405523281197425124",
+      "extraServiceIcons": [],
+      "distance": ""
+    },
+    {
+      "avgPrice": 54,
+      "avgScore": 4.7,
+      "cateName": "海鲜",
+      "channel": "food",
+      "showType": "",
+      "frontImg": "https://img.meituan.net/msmerchant/61fb8ad0c45df05de3657e175ed612fa643583.jpg",
+      "lat": 28.654437,
+      "lng": 115.905774,
+      "name": "领蟹祥记·螃蟹脚（王府井店）",
+      "poiid": "681623138",
+      "areaName": "王府井",
+      "poiImgExtra": {},
+      "extraServiceTags": [
+        {
+          "icon": "",
+          "text": {
+            "content": "支持买单",
+            "color": "#6cbab2",
+            "backgroundColor": ""
+          }
+        }
+      ],
+      "rotationTags": [],
+      "smartTags": [
+        {
+          "icon": "",
+          "text": {
+            "content": "青云谱区地方菜人气榜第1名",
+            "color": "#be9e4d",
+            "backgroundColor": "#fbf4e4",
+            "borderColor": ""
+          }
+        }
+      ],
+      "preferentialInfo": {
+        "hiddenNumber": 0,
+        "maidan": {
+          "defaultShowNum": 2,
+          "entries": [
+            {
+              "discount": "",
+              "discountColor": "#38c2aa",
+              "content": "双人餐9.9元起，79元香辣蟹鸡脚双人餐，4人餐138元起",
+              "icon": "https://p1.meituan.net/travelcube/734c7f818631a0aa8e49a814b90b1b771242.png",
+              "promotion": "",
+              "hasBorder": 0,
+              "borderColor": ""
+            },
+            {
+              "discount": "",
+              "discountColor": "#ff8822",
+              "content": "47代50元",
+              "icon": "http://p1.meituan.net/codeman/5b202af2ecf82c69a433a246296ca4791278.png",
+              "hasBorder": 0,
+              "borderColor": ""
+            }
+          ]
+        },
+        "combo": {
+          "defaultShowNum": 0,
+          "entries": []
+        }
+      },
+      "ctPoi": "327362217440331927674431848535865745255_a681623138_c14_e405523281197425124",
+      "extraServiceIcons": [],
+      "distance": ""
+    },
+    {
+      "avgPrice": 59,
+      "avgScore": 4.6,
+      "cateName": "融合烤肉",
+      "channel": "food",
+      "showType": "",
+      "frontImg": "https://img.meituan.net/msmerchant/3f4950e6d92e95df3eb19feefe64722831843.jpg",
+      "lat": 28.67564,
+      "lng": 115.89324,
+      "name": "就恰烤肉·辣烤嫩汁牛肉（中山路店）",
+      "poiid": "193559543",
+      "areaName": "百花洲",
+      "poiImgExtra": {},
+      "extraServiceTags": [
+        {
+          "icon": "",
+          "text": {
+            "content": "支持买单",
+            "color": "#6cbab2",
+            "backgroundColor": ""
+          }
+        }
+      ],
+      "rotationTags": [],
+      "smartTags": [
+        {
+          "icon": "",
+          "text": {
+            "content": "全城烧烤龙虾人气榜第2名",
+            "color": "#be9e4d",
+            "backgroundColor": "#fbf4e4",
+            "borderColor": ""
+          }
+        }
+      ],
+      "preferentialInfo": {
+        "hiddenNumber": 0,
+        "maidan": {
+          "defaultShowNum": 2,
+          "entries": [
+            {
+              "discount": "",
+              "discountColor": "#38c2aa",
+              "content": "双人餐106元，3人餐148元，4-5人餐188元",
+              "icon": "https://p1.meituan.net/travelcube/734c7f818631a0aa8e49a814b90b1b771242.png",
+              "promotion": "立减10",
+              "hasBorder": 0,
+              "borderColor": ""
+            },
+            {
+              "discount": "",
+              "discountColor": "#ff8822",
+              "content": "88代100元，78代100元",
+              "icon": "http://p1.meituan.net/codeman/5b202af2ecf82c69a433a246296ca4791278.png",
+              "promotion": "立减8",
+              "hasBorder": 0,
+              "borderColor": ""
+            }
+          ]
+        },
+        "combo": {
+          "defaultShowNum": 0,
+          "entries": []
+        }
+      },
+      "ctPoi": "327362217440331927674431848535865745255_a193559543_c0_e189157664568544507",
+      "extraServiceIcons": [],
+      "distance": ""
+    },
+    {
+      "avgPrice": 141,
+      "avgScore": 4.7,
+      "cateName": "综合自助",
+      "channel": "food",
+      "showType": "",
+      "frontImg": "https://img.meituan.net/msmerchant/114eaf5815d2255faf8ed29d1dbce548548415.jpg",
+      "lat": 28.676043,
+      "lng": 115.891087,
+      "name": "亚马逊环球美食百汇（中山路百盛店）",
+      "poiid": "804432607",
+      "areaName": "百花洲",
+      "poiImgExtra": {},
+      "extraServiceTags": [
+        {
+          "icon": "",
+          "text": {
+            "content": "支持预订",
+            "color": "#6cbab2",
+            "backgroundColor": ""
+          }
+        }
+      ],
+      "rotationTags": [],
+      "smartTags": [
+        {
+          "icon": "",
+          "text": {
+            "content": "回头客多",
+            "color": "#be9e4d",
+            "backgroundColor": "#fbf4e4",
+            "borderColor": ""
+          }
+        }
+      ],
+      "preferentialInfo": {
+        "hiddenNumber": 0,
+        "maidan": {
+          "defaultShowNum": 1,
+          "entries": [
+            {
+              "discount": "",
+              "discountColor": "#38c2aa",
+              "content": "单人自助111元起，单人午餐116元，3人自助359元，4人午餐490元，4人自助566元，10人自助1356元",
+              "icon": "https://p1.meituan.net/travelcube/734c7f818631a0aa8e49a814b90b1b771242.png",
+              "promotion": "",
+              "hasBorder": 0,
+              "borderColor": ""
+            }
+          ]
+        },
+        "combo": {
+          "defaultShowNum": 0,
+          "entries": []
+        }
+      },
+      "ctPoi": "327362217440331927674431848535865745255_a804432607_c1_e189157664568544507",
+      "extraServiceIcons": [],
+      "distance": ""
+    },
+    {
+      "avgPrice": 54,
+      "avgScore": 4.7,
+      "cateName": "江西菜",
+      "channel": "food",
+      "showType": "",
+      "frontImg": "https://img.meituan.net/msmerchant/18b7bc7c46010ca10ecdb19ef0439c8e217506.jpg",
+      "lat": 28.673289,
+      "lng": 115.893577,
+      "name": "米禾小院",
+      "poiid": "871219008",
+      "areaName": "孺子亭",
+      "reportMessage": {
+        "adsClickUrl": "https://mlog.dianping.com/api/cpv/billing?mbid=1.0&productid=74&display_id=50017&bg=0&pctr=0.03409237379162191&ad_cj=rAefjZcvsxaOmNYjmXL5xfEt5ysikyq4jsVg0hHJ4-gD0m8NIZ3ELZmsD-eEF9MXrrydh1Pe9m8YVmOuIJNVZrDSZEGLA-O0NvMx4qhFyyXrj2pj8VDr8kH92qzpRYzkyjgaC2DBksD0CS3h&ad_ci=rAefhZY_v1_Gys43wX3x1aN4rHN7xQWjg5s92BHV4vdHgyVMIYfvLYnoVLOIF90VrLSCxQaXhGQcV2OuOJJFIeSRIxHMUc-xPbo546FCzyP_2TMTkSfj9kSq2P--UNk&discount=1&rankScore=3.3030967321030205E-4&mtlaunch_city_id=83&bu=28&category_id=247&pos=1&mtuser_id64=0&pcvr=2.5E-4&client_version=8.3.0&mtdpid=1c7250ef987f4e639d8b.1616478057.1.0.0&bottomprice=1.0&user_agent=touch&launch_city_id=0&mtcategory_ids=1&sver=2&AdExpPath=18-338-2099,3-169-830,3-287-1751,3-140-565,3-50-100,3-61-1769,3-164-792,3-227-1297,3-12-28,18-293-1778,3-201-1096,3-296-1803&bottomfen=100&mtuser_id=0&adsCtrStrategy=SelectBaseline&page_city_id=0&entityplat=2&ad_v=2&mtadshop_id=871219008&mtpage_city_id=83&adidx=18&act=2",
+        "adsImpressionUrl": "https://mlog.dianping.com/api/cpv/action?mbid=1.0&productid=74&display_id=50017&bg=0&pctr=0.03409237379162191&ad_cj=rAefjZcvsxaOmNYjmXL5xfEt5ysikyq4jsVg0hHJ4-gD0m8NIZ3ELZmsD-eEF9MXrrydh1Pe9m8YVmOuIJNVZrDSZEGLA-O0NvMx4qhFyyXrj2pj8VDr8kH92qzpRYzkyjgaC2DBksD0CS3h&ad_ci=rAefhZY_v1_Gys43wX3x1aN4rHN7xQWjg5s92BHV4vdHgyVMIYfvLYnoVLOIF90VrLSCxQaXhGQcV2OuOJJFIeSRIxHMUc-xPbo546FCzyP_2TMTkSfj9kSq2P--UNk&discount=1&rankScore=3.3030967321030205E-4&mtlaunch_city_id=83&bu=28&category_id=247&pos=1&mtuser_id64=0&pcvr=2.5E-4&client_version=8.3.0&mtdpid=1c7250ef987f4e639d8b.1616478057.1.0.0&bottomprice=1.0&user_agent=touch&launch_city_id=0&mtcategory_ids=1&sver=2&AdExpPath=18-338-2099,3-169-830,3-287-1751,3-140-565,3-50-100,3-61-1769,3-164-792,3-227-1297,3-12-28,18-293-1778,3-201-1096,3-296-1803&bottomfen=100&mtuser_id=0&adsCtrStrategy=SelectBaseline&page_city_id=0&entityplat=2&ad_v=2&mtadshop_id=871219008&mtpage_city_id=83&adidx=18&act=3"
+      },
+      "poiImgExtra": {
+        "topRight": {
+          "icon": "",
+          "text": {
+            "content": "广告",
+            "color": "",
+            "backgroundColor": ""
+          }
+        }
+      },
+      "extraServiceTags": [
+        {
+          "icon": "",
+          "text": {
+            "content": "支持买单",
+            "color": "#6cbab2",
+            "backgroundColor": ""
+          }
+        }
+      ],
+      "rotationTags": [],
+      "smartTags": [
+        {
+          "icon": "",
+          "text": {
+            "content": "回头客多",
+            "color": "#be9e4d",
+            "backgroundColor": "#fbf4e4",
+            "borderColor": ""
+          }
+        }
+      ],
+      "preferentialInfo": {
+        "hiddenNumber": 0,
+        "maidan": {
+          "defaultShowNum": 1,
+          "entries": [
+            {
+              "discount": "",
+              "discountColor": "#ff8822",
+              "content": "88代100元",
+              "icon": "http://p1.meituan.net/codeman/5b202af2ecf82c69a433a246296ca4791278.png",
+              "hasBorder": 0,
+              "borderColor": ""
+            }
+          ]
+        },
+        "combo": {
+          "defaultShowNum": 0,
+          "entries": []
+        }
+      },
+      "ctPoi": "004584292826848322752040319172543177889_a871219008_c2_e189157664568544507_v5497512503245221113__1000",
+      "extraServiceIcons": [],
+      "distance": ""
+    },
+    {
+      "avgPrice": 17,
+      "avgScore": 4.9,
+      "cateName": "日式小吃",
+      "channel": "food",
+      "showType": "",
+      "frontImg": "https://img.meituan.net/msmerchant/f19574d2f77f1cad072c5ce1560ae2cd4646798.jpg",
+      "lat": 28.676108,
+      "lng": 115.891864,
+      "name": "大口章鱼烧（百盛店）",
+      "poiid": "1501697882",
+      "areaName": "胜利路",
+      "poiImgExtra": {},
+      "extraServiceTags": [
+        {
+          "icon": "",
+          "text": {
+            "content": "支持买单",
+            "color": "#6cbab2",
+            "backgroundColor": ""
+          }
+        }
+      ],
+      "rotationTags": [],
+      "smartTags": [
+        {
+          "icon": "",
+          "text": {
+            "content": "胜利路小吃快餐人气榜第2名",
+            "color": "#be9e4d",
+            "backgroundColor": "#fbf4e4",
+            "borderColor": ""
+          }
+        },
+        {
+          "icon": "",
+          "text": {
+            "content": "回头客多",
+            "color": "#be9e4d",
+            "backgroundColor": "#fbf4e4",
+            "borderColor": ""
+          }
+        }
+      ],
+      "preferentialInfo": {
+        "hiddenNumber": 0,
+        "maidan": {
+          "defaultShowNum": 2,
+          "entries": [
+            {
+              "discount": "",
+              "discountColor": "#38c2aa",
+              "content": "11.9元原味章鱼烧，12.88元培根芝士章鱼烧",
+              "icon": "https://p1.meituan.net/travelcube/734c7f818631a0aa8e49a814b90b1b771242.png",
+              "promotion": "立减5",
+              "hasBorder": 0,
+              "borderColor": ""
+            },
+            {
+              "discount": "",
+              "discountColor": "#ff8822",
+              "content": "42.5代50元",
+              "icon": "http://p1.meituan.net/codeman/5b202af2ecf82c69a433a246296ca4791278.png",
+              "hasBorder": 0,
+              "borderColor": ""
+            }
+          ]
+        },
+        "combo": {
+          "defaultShowNum": 0,
+          "entries": []
+        }
+      },
+      "ctPoi": "327362217440331927674431848535865745255_a1501697882_c3_e189157664568544507",
+      "extraServiceIcons": [],
+      "distance": ""
+    },
+    {
+      "avgPrice": 12,
+      "avgScore": 4.8,
+      "cateName": "冰淇淋",
+      "channel": "food",
+      "showType": "",
+      "frontImg": "https://img.meituan.net/msmerchant/df8d1b5d21ac755d3ef7bf6875d2b5f429930.jpg",
+      "lat": 28.692369,
+      "lng": 115.847703,
+      "name": "罗曼林冰淇淋＆茶",
+      "poiid": "1671009440",
+      "areaName": "万达广场",
+      "poiImgExtra": {},
+      "extraServiceTags": [],
+      "rotationTags": [],
+      "smartTags": [
+        {
+          "icon": "",
+          "text": {
+            "content": "万达广场甜点饮品人气榜第4名",
+            "color": "#be9e4d",
+            "backgroundColor": "#fbf4e4",
+            "borderColor": ""
+          }
+        },
+        {
+          "icon": "",
+          "text": {
+            "content": "新店特惠",
+            "color": "#be9e4d",
+            "backgroundColor": "#fbf4e4",
+            "borderColor": ""
+          }
+        }
+      ],
+      "preferentialInfo": {
+        "hiddenNumber": 0,
+        "maidan": {
+          "defaultShowNum": 1,
+          "entries": [
+            {
+              "discount": "",
+              "discountColor": "#38c2aa",
+              "content": "5.2元冬季恋歌，6.2元醇香奶茶2选1，7.2元雪顶咖啡，8.6元冰淇淋2选1，13.9元奶茶冰淇淋好搭档",
+              "icon": "https://p1.meituan.net/travelcube/734c7f818631a0aa8e49a814b90b1b771242.png",
+              "promotion": "",
+              "hasBorder": 0,
+              "borderColor": ""
+            }
+          ]
+        },
+        "combo": {
+          "defaultShowNum": 0,
+          "entries": []
+        }
+      },
+      "ctPoi": "327362217440331927674431848535865745255_a1671009440_c4_e189157664568544507",
+      "extraServiceIcons": [],
+      "distance": ""
+    },
+    {
+      "avgPrice": 39,
+      "avgScore": 4.7,
+      "cateName": "日本料理",
+      "channel": "food",
+      "showType": "",
+      "frontImg": "https://img.meituan.net/msmerchant/7564d59de2e58d4a304b75957223977c368497.jpg",
+      "lat": 28.653413,
+      "lng": 115.904806,
+      "name": "丼坊 丼作屋 dong fang（王府井店）",
+      "poiid": "1267815592",
+      "areaName": "十字街",
+      "poiImgExtra": {},
+      "extraServiceTags": [],
+      "rotationTags": [],
+      "smartTags": [
+        {
+          "icon": "",
+          "text": {
+            "content": "青云谱区异国料理人气榜第1名",
+            "color": "#be9e4d",
+            "backgroundColor": "#fbf4e4",
+            "borderColor": ""
+          }
+        },
+        {
+          "icon": "",
+          "text": {
+            "content": "回头客多",
+            "color": "#be9e4d",
+            "backgroundColor": "#fbf4e4",
+            "borderColor": ""
+          }
+        }
+      ],
+      "preferentialInfo": {
+        "hiddenNumber": 0,
+        "maidan": {
+          "defaultShowNum": 2,
+          "entries": [
+            {
+              "discount": "",
+              "discountColor": "#38c2aa",
+              "content": "单人餐4元起，双人餐19.9元",
+              "icon": "https://p1.meituan.net/travelcube/734c7f818631a0aa8e49a814b90b1b771242.png",
+              "promotion": "立减6",
+              "hasBorder": 0,
+              "borderColor": ""
+            },
+            {
+              "discount": "",
+              "discountColor": "#ff8822",
+              "content": "45代50元",
+              "icon": "http://p1.meituan.net/codeman/5b202af2ecf82c69a433a246296ca4791278.png",
+              "hasBorder": 0,
+              "borderColor": ""
+            }
+          ]
+        },
+        "combo": {
+          "defaultShowNum": 0,
+          "entries": []
+        }
+      },
+      "ctPoi": "327362217440331927674431848535865745255_a1267815592_c5_e189157664568544507",
+      "extraServiceIcons": [],
+      "distance": ""
+    },
+    {
+      "avgPrice": 60,
+      "avgScore": 4.9,
+      "cateName": "综合自助",
+      "channel": "food",
+      "showType": "",
+      "frontImg": "//p0.meituan.net/biztone/102500620_1606293852400.jpeg",
+      "lat": 28.674183,
+      "lng": 116.021468,
+      "name": "牛太郎自助烤肉（奥体天虹店）",
+      "poiid": "102500620",
+      "areaName": "瑶湖区",
+      "poiImgExtra": {},
+      "extraServiceTags": [],
+      "rotationTags": [],
+      "smartTags": [
+        {
+          "icon": "",
+          "text": {
+            "content": "南昌县自助餐人气榜第1名",
+            "color": "#be9e4d",
+            "backgroundColor": "#fbf4e4",
+            "borderColor": ""
+          }
+        },
+        {
+          "icon": "",
+          "text": {
+            "content": "回头客多",
+            "color": "#be9e4d",
+            "backgroundColor": "#fbf4e4",
+            "borderColor": ""
+          }
+        }
+      ],
+      "preferentialInfo": {
+        "hiddenNumber": 0,
+        "maidan": {
+          "defaultShowNum": 1,
+          "entries": [
+            {
+              "discount": "",
+              "discountColor": "#38c2aa",
+              "content": "单人午餐57元，单人晚餐65元",
+              "icon": "https://p1.meituan.net/travelcube/734c7f818631a0aa8e49a814b90b1b771242.png",
+              "promotion": "立减8",
+              "hasBorder": 0,
+              "borderColor": ""
+            }
+          ]
+        },
+        "combo": {
+          "defaultShowNum": 0,
+          "entries": []
+        }
+      },
+      "ctPoi": "327362217440331927674431848535865745255_a102500620_c6_e189157664568544507",
+      "extraServiceIcons": [],
+      "distance": ""
+    },
+    {
+      "avgPrice": 60,
+      "avgScore": 4.9,
+      "cateName": "烧烤",
+      "channel": "food",
+      "showType": "",
+      "frontImg": "https://img.meituan.net/msmerchant/fd5ea91c50f627141b84cdad7a7b338b1301261.jpg",
+      "lat": 28.692038,
+      "lng": 115.903826,
+      "name": "又一家烧烤（东湖店）",
+      "poiid": "195905749",
+      "areaName": "青山路/青山湖风景区",
+      "reportMessage": {
+        "adsClickUrl": "https://mlog.dianping.com/api/cpv/billing?mbid=1.17&productid=74&display_id=50017&bg=0&pctr=0.032295022624434386&ad_cj=bqdipxtYqPwEwiuqC2K4EowIswJWG6lb7FHSAWjin8Tl0UouzPxGOD8Af2DlaJDcuIBJYp2krTCP_u8k2T7Dq-nlNdJn5muevdeEcwqh_7S2Z-rQw8E6gYxUYhu6JUGiwZuXsyycZByBV1JENQ&ad_ci=bqdirxpIpLVMkDO-U22wAdRV8V4KTYZA4Q-GD2v1n8H7lBt6zvdGDiIdKzboaJnft4JNc9v4-gaP97coxjnFu66xdpU3oTmyuNzNewuo-LCwc7yJs6FNidtTZUi-IlGn&discount=1&rankScore=3.3023226616114214E-4&mtlaunch_city_id=83&bu=2&category_id=508&pos=1&mtuser_id64=0&pcvr=2.4E-4&client_version=8.3.0&mtdpid=1c7250ef987f4e639d8b.1616478057.1.0.0&bottomprice=1.0&user_agent=touch&launch_city_id=0&mtcategory_ids=1&sver=2&AdExpPath=18-338-2099,3-169-830,3-287-1751,3-140-565,3-50-100,3-61-1769,3-164-792,3-227-1297,3-12-28,18-293-1778,3-201-1096,3-296-1803&bottomfen=100&mtuser_id=0&adsCtrStrategy=SelectBaseline&page_city_id=0&entityplat=2&ad_v=2&mtadshop_id=195905749&mtpage_city_id=83&adidx=23&act=2",
+        "adsImpressionUrl": "https://mlog.dianping.com/api/cpv/action?mbid=1.17&productid=74&display_id=50017&bg=0&pctr=0.032295022624434386&ad_cj=bqdipxtYqPwEwiuqC2K4EowIswJWG6lb7FHSAWjin8Tl0UouzPxGOD8Af2DlaJDcuIBJYp2krTCP_u8k2T7Dq-nlNdJn5muevdeEcwqh_7S2Z-rQw8E6gYxUYhu6JUGiwZuXsyycZByBV1JENQ&ad_ci=bqdirxpIpLVMkDO-U22wAdRV8V4KTYZA4Q-GD2v1n8H7lBt6zvdGDiIdKzboaJnft4JNc9v4-gaP97coxjnFu66xdpU3oTmyuNzNewuo-LCwc7yJs6FNidtTZUi-IlGn&discount=1&rankScore=3.3023226616114214E-4&mtlaunch_city_id=83&bu=2&category_id=508&pos=1&mtuser_id64=0&pcvr=2.4E-4&client_version=8.3.0&mtdpid=1c7250ef987f4e639d8b.1616478057.1.0.0&bottomprice=1.0&user_agent=touch&launch_city_id=0&mtcategory_ids=1&sver=2&AdExpPath=18-338-2099,3-169-830,3-287-1751,3-140-565,3-50-100,3-61-1769,3-164-792,3-227-1297,3-12-28,18-293-1778,3-201-1096,3-296-1803&bottomfen=100&mtuser_id=0&adsCtrStrategy=SelectBaseline&page_city_id=0&entityplat=2&ad_v=2&mtadshop_id=195905749&mtpage_city_id=83&adidx=23&act=3"
+      },
+      "poiImgExtra": {
+        "topRight": {
+          "icon": "",
+          "text": {
+            "content": "广告",
+            "color": "",
+            "backgroundColor": ""
+          }
+        }
+      },
+      "extraServiceTags": [],
+      "shopKeeperSay": {
+        "icon": "http://p1.meituan.net/codeman/7df7e1db853b6ef52c412f953aa58b82362.png",
+        "text": {
+          "content": "掌柜说:小龙虾爱上蛙，我爱又一家",
+          "color": "#999999",
+          "backgroundColor": ""
+        }
+      },
+      "rotationTags": [
+        {
+          "icon": "http://p1.meituan.net/codeman/7df7e1db853b6ef52c412f953aa58b82362.png",
+          "text": {
+            "content": "掌柜说:小龙虾爱上蛙，我爱又一家",
+            "color": "#999999",
+            "backgroundColor": ""
+          }
+        }
+      ],
+      "preferentialInfo": {
+        "hiddenNumber": 0,
+        "maidan": {
+          "defaultShowNum": 1,
+          "entries": [
+            {
+              "discount": "",
+              "discountColor": "",
+              "content": "买单立享9.8折",
+              "icon": "http://p1.meituan.net/codeman/3b56ab9f3824afb2781e12bd2fbb0a761558.png",
+              "promotion": "",
+              "hasBorder": 1,
+              "borderColor": "#FF8822"
+            }
+          ]
+        },
+        "combo": {
+          "defaultShowNum": 0,
+          "entries": []
+        }
+      },
+      "ctPoi": "004584292826848322752040319172543177889_a195905749_c7_e189157664568544507_v5497512503245221113__1000",
+      "extraServiceIcons": [],
+      "distance": ""
+    },
+    {
+      "avgPrice": 72,
+      "avgScore": 4.8,
+      "cateName": "自助烧烤",
+      "channel": "food",
+      "showType": "",
+      "frontImg": "https://img.meituan.net/msmerchant/9fd419e1c72a56a50b0a744cbf7d8ea623521.png",
+      "lat": 28.675528,
+      "lng": 115.893192,
+      "name": "圣江山自助烤肉",
+      "poiid": "1093640631",
+      "areaName": "百花洲",
+      "poiImgExtra": {},
+      "extraServiceTags": [
+        {
+          "icon": "",
+          "text": {
+            "content": "支持买单",
+            "color": "#6cbab2",
+            "backgroundColor": ""
+          }
+        }
+      ],
+      "rotationTags": [],
+      "smartTags": [
+        {
+          "icon": "",
+          "text": {
+            "content": "全城烧烤龙虾人气榜第1名",
+            "color": "#be9e4d",
+            "backgroundColor": "#fbf4e4",
+            "borderColor": ""
+          }
+        },
+        {
+          "icon": "",
+          "text": {
+            "content": "回头客多",
+            "color": "#be9e4d",
+            "backgroundColor": "#fbf4e4",
+            "borderColor": ""
+          }
+        }
+      ],
+      "preferentialInfo": {
+        "hiddenNumber": 0,
+        "maidan": {
+          "defaultShowNum": 1,
+          "entries": [
+            {
+              "discount": "",
+              "discountColor": "#38c2aa",
+              "content": "单人餐60元起，单人自助75元，4人自助298元",
+              "icon": "https://p1.meituan.net/travelcube/734c7f818631a0aa8e49a814b90b1b771242.png",
+              "promotion": "节庆减30",
+              "hasBorder": 0,
+              "borderColor": ""
+            }
+          ]
+        },
+        "combo": {
+          "defaultShowNum": 0,
+          "entries": []
+        }
+      },
+      "ctPoi": "327362217440331927674431848535865745255_a1093640631_c8_e189157664568544507",
+      "extraServiceIcons": [],
+      "distance": ""
+    },
+    {
+      "avgPrice": 18,
+      "avgScore": 4.8,
+      "cateName": "长沙小吃",
+      "channel": "food",
+      "showType": "",
+      "frontImg": "//p0.meituan.net/merchant/c3c6da94886fd0fe344eb327662c4e8b238183.png",
+      "lat": 28.675209,
+      "lng": 115.892085,
+      "name": "李喜欢手工虾滑（中山路店）",
+      "poiid": "868605109",
+      "areaName": "中山路",
+      "poiImgExtra": {},
+      "extraServiceTags": [],
+      "rotationTags": [],
+      "smartTags": [
+        {
+          "icon": "",
+          "text": {
+            "content": "中山路小吃快餐人气榜第1名",
+            "color": "#be9e4d",
+            "backgroundColor": "#fbf4e4",
+            "borderColor": ""
+          }
+        },
+        {
+          "icon": "",
+          "text": {
+            "content": "回头客多",
+            "color": "#be9e4d",
+            "backgroundColor": "#fbf4e4",
+            "borderColor": ""
+          }
+        }
+      ],
+      "preferentialInfo": {
+        "hiddenNumber": 0,
+        "maidan": {
+          "defaultShowNum": 1,
+          "entries": [
+            {
+              "discount": "",
+              "discountColor": "#38c2aa",
+              "content": "12.8元单人招牌套餐，15.8元四选一，28元双人精品A套餐，42元双人精品B套餐",
+              "icon": "https://p1.meituan.net/travelcube/734c7f818631a0aa8e49a814b90b1b771242.png",
+              "promotion": "",
+              "hasBorder": 0,
+              "borderColor": ""
+            }
+          ]
+        },
+        "combo": {
+          "defaultShowNum": 0,
+          "entries": []
+        }
+      },
+      "ctPoi": "327362217440331927674431848535865745255_a868605109_c9_e189157664568544507",
+      "extraServiceIcons": [],
+      "distance": ""
+    },
+    {
+      "avgPrice": 141,
+      "avgScore": 4.8,
+      "cateName": "综合自助",
+      "channel": "food",
+      "showType": "",
+      "frontImg": "https://img.meituan.net/msmerchant/114eaf5815d2255faf8ed29d1dbce548548415.jpg",
+      "lat": 28.634734,
+      "lng": 115.863152,
+      "name": "亚马逊环球美食百汇（九州天虹店）",
+      "poiid": "1667490493",
+      "areaName": "朝阳新城",
+      "poiImgExtra": {},
+      "extraServiceTags": [
+        {
+          "icon": "",
+          "text": {
+            "content": "支持预订",
+            "color": "#6cbab2",
+            "backgroundColor": ""
+          }
+        }
+      ],
+      "rotationTags": [],
+      "smartTags": [
+        {
+          "icon": "",
+          "text": {
+            "content": "西湖区自助餐人气榜第1名",
+            "color": "#be9e4d",
+            "backgroundColor": "#fbf4e4",
+            "borderColor": ""
+          }
+        }
+      ],
+      "preferentialInfo": {
+        "hiddenNumber": 0,
+        "maidan": {
+          "defaultShowNum": 1,
+          "entries": [
+            {
+              "discount": "",
+              "discountColor": "#38c2aa",
+              "content": "单人自助111元起，单人午餐116元，3人自助359元，4人午餐490元，4人自助566元，10人自助1356元",
+              "icon": "https://p1.meituan.net/travelcube/734c7f818631a0aa8e49a814b90b1b771242.png",
+              "promotion": "",
+              "hasBorder": 0,
+              "borderColor": ""
+            }
+          ]
+        },
+        "combo": {
+          "defaultShowNum": 0,
+          "entries": []
+        }
+      },
+      "ctPoi": "327362217440331927674431848535865745255_a1667490493_c10_e189157664568544507",
+      "extraServiceIcons": [],
+      "distance": ""
+    },
+    {
+      "avgPrice": 42,
+      "avgScore": 4.6,
+      "cateName": "潮汕牛肉火锅",
+      "channel": "food",
+      "showType": "",
+      "frontImg": "//p0.meituan.net/merchant/3f2f2840e8de9f4e005d148ec87e7af4158858.jpg",
+      "lat": 28.66209,
+      "lng": 115.939836,
+      "name": "古乐牛香·鲜牛肉牛杂火锅（上海路尚街富婆街店）",
+      "poiid": "178838289",
+      "areaName": "上海路",
+      "poiImgExtra": {},
+      "extraServiceTags": [],
+      "rotationTags": [],
+      "smartTags": [
+        {
+          "icon": "",
+          "text": {
+            "content": "上海路火锅人气榜第1名",
+            "color": "#be9e4d",
+            "backgroundColor": "#fbf4e4",
+            "borderColor": ""
+          }
+        }
+      ],
+      "preferentialInfo": {
+        "hiddenNumber": 0,
+        "maidan": {
+          "defaultShowNum": 2,
+          "entries": [
+            {
+              "discount": "",
+              "discountColor": "#38c2aa",
+              "content": "单人餐6.8元，双人餐109元，4人餐188元",
+              "icon": "https://p1.meituan.net/travelcube/734c7f818631a0aa8e49a814b90b1b771242.png",
+              "promotion": "",
+              "hasBorder": 0,
+              "borderColor": ""
+            },
+            {
+              "discount": "",
+              "discountColor": "#ff8822",
+              "content": "88代100元",
+              "icon": "http://p1.meituan.net/codeman/5b202af2ecf82c69a433a246296ca4791278.png",
+              "promotion": "立减8",
+              "hasBorder": 0,
+              "borderColor": ""
+            }
+          ]
+        },
+        "combo": {
+          "defaultShowNum": 0,
+          "entries": []
+        }
+      },
+      "ctPoi": "327362217440331927674431848535865745255_a178838289_c11_e189157664568544507",
+      "extraServiceIcons": [],
+      "distance": ""
+    },
+    {
+      "avgPrice": 41,
+      "avgScore": 4,
+      "cateName": "烤串",
+      "channel": "food",
+      "showType": "",
+      "frontImg": "https://img.meituan.net/msmerchant/bf33b2f9e1308a8bf1f17d76903745b71041357.jpg",
+      "lat": 28.69248,
+      "lng": 115.86457,
+      "name": "南串大叔（第一街区店）",
+      "poiid": "1343738957",
+      "areaName": "第一街区",
+      "reportMessage": {
+        "adsClickUrl": "https://mlog.dianping.com/api/cpv/billing?mbid=1.1&productid=74&display_id=50017&bg=0&pctr=0.030848137535816635&ad_cj=lAnKl3_BKgfYPsKveVrREMKcx8jhNiwg83Ucp6v7E8TCu8reYLP3AmrdRTDDj4GOAifs1PrO-68098TSzaDkY0X3IlgX1zMqQLUMQZ_-adBy2YEVivkx9G1punHRZvKdoh_3IABVidYi428hUvU&ad_ci=lAnKn37RJk6QbNq7IVXZApTBhpm_YAM7_itIqa7mFMXJsszdce-sRjKcBG-ehpbJV2a8graop_wvpJSOwqT7YFajNUwT5ikzeuFZSpv8ZdZ12oYUnLlvryxmvXDQZvadohz3IABVjYYh4jpyUv4&discount=1&rankScore=3.3023207521956925E-4&mtlaunch_city_id=83&bu=28&category_id=508&pos=1&mtuser_id64=0&pcvr=0.0019047619047619048&client_version=8.3.0&mtdpid=1c7250ef987f4e639d8b.1616478057.1.0.0&bottomprice=1.0&user_agent=touch&launch_city_id=0&mtcategory_ids=1&sver=2&AdExpPath=18-338-2099,3-169-830,3-287-1751,3-140-565,3-50-100,3-61-1769,3-164-792,3-227-1297,3-12-28,18-293-1778,3-201-1096,3-296-1803&bottomfen=100&mtuser_id=0&adsCtrStrategy=SelectBaseline&page_city_id=0&entityplat=2&ad_v=2&mtadshop_id=1343738957&mtpage_city_id=83&adidx=28&act=2",
+        "adsImpressionUrl": "https://mlog.dianping.com/api/cpv/action?mbid=1.1&productid=74&display_id=50017&bg=0&pctr=0.030848137535816635&ad_cj=lAnKl3_BKgfYPsKveVrREMKcx8jhNiwg83Ucp6v7E8TCu8reYLP3AmrdRTDDj4GOAifs1PrO-68098TSzaDkY0X3IlgX1zMqQLUMQZ_-adBy2YEVivkx9G1punHRZvKdoh_3IABVidYi428hUvU&ad_ci=lAnKn37RJk6QbNq7IVXZApTBhpm_YAM7_itIqa7mFMXJsszdce-sRjKcBG-ehpbJV2a8graop_wvpJSOwqT7YFajNUwT5ikzeuFZSpv8ZdZ12oYUnLlvryxmvXDQZvadohz3IABVjYYh4jpyUv4&discount=1&rankScore=3.3023207521956925E-4&mtlaunch_city_id=83&bu=28&category_id=508&pos=1&mtuser_id64=0&pcvr=0.0019047619047619048&client_version=8.3.0&mtdpid=1c7250ef987f4e639d8b.1616478057.1.0.0&bottomprice=1.0&user_agent=touch&launch_city_id=0&mtcategory_ids=1&sver=2&AdExpPath=18-338-2099,3-169-830,3-287-1751,3-140-565,3-50-100,3-61-1769,3-164-792,3-227-1297,3-12-28,18-293-1778,3-201-1096,3-296-1803&bottomfen=100&mtuser_id=0&adsCtrStrategy=SelectBaseline&page_city_id=0&entityplat=2&ad_v=2&mtadshop_id=1343738957&mtpage_city_id=83&adidx=28&act=3"
+      },
+      "poiImgExtra": {
+        "topRight": {
+          "icon": "",
+          "text": {
+            "content": "广告",
+            "color": "",
+            "backgroundColor": ""
+          }
+        }
+      },
+      "extraServiceTags": [],
+      "shopKeeperSay": {
+        "icon": "http://p1.meituan.net/codeman/7df7e1db853b6ef52c412f953aa58b82362.png",
+        "text": {
+          "content": "掌柜说:一米羊肉 朋友圈霸屏神器",
+          "color": "#999999",
+          "backgroundColor": ""
+        }
+      },
+      "rotationTags": [
+        {
+          "icon": "http://p1.meituan.net/codeman/7df7e1db853b6ef52c412f953aa58b82362.png",
+          "text": {
+            "content": "掌柜说:一米羊肉 朋友圈霸屏神器",
+            "color": "#999999",
+            "backgroundColor": ""
+          }
+        }
+      ],
+      "preferentialInfo": {
+        "hiddenNumber": 0,
+        "maidan": {
+          "defaultShowNum": 2,
+          "entries": [
+            {
+              "discount": "",
+              "discountColor": "#38c2aa",
+              "content": "单人餐10元，双人餐23.3元起",
+              "icon": "https://p1.meituan.net/travelcube/734c7f818631a0aa8e49a814b90b1b771242.png",
+              "promotion": "立减9元",
+              "hasBorder": 0,
+              "borderColor": ""
+            },
+            {
+              "discount": "",
+              "discountColor": "#ff8822",
+              "content": "48代50元",
+              "icon": "http://p1.meituan.net/codeman/5b202af2ecf82c69a433a246296ca4791278.png",
+              "hasBorder": 0,
+              "borderColor": ""
+            }
+          ]
+        },
+        "combo": {
+          "defaultShowNum": 0,
+          "entries": []
+        }
+      },
+      "ctPoi": "004584292826848322752040319172543177889_a1343738957_c12_e189157664568544507_v5497512503245221113__1000",
+      "extraServiceIcons": [],
+      "distance": ""
+    },
+    {
+      "avgPrice": 14,
+      "avgScore": 4.8,
+      "cateName": "西式快餐/汉堡",
+      "channel": "food",
+      "showType": "",
+      "frontImg": "//p0.meituan.net/bbia/062a186c23cfb9ebe34e95ca235ff660535199.jpg",
+      "lat": 28.692879,
+      "lng": 115.944359,
+      "name": "华莱士·全鸡汉堡（青山湖欢乐街店）",
+      "poiid": "165676770",
+      "areaName": "高新技术开发区",
+      "poiImgExtra": {},
+      "extraServiceTags": [],
+      "rotationTags": [],
+      "smartTags": [
+        {
+          "icon": "",
+          "text": {
+            "content": "高新技术开发区异国料理人气榜第1名",
+            "color": "#be9e4d",
+            "backgroundColor": "#fbf4e4",
+            "borderColor": ""
+          }
+        }
+      ],
+      "preferentialInfo": {
+        "hiddenNumber": 0,
+        "maidan": {
+          "defaultShowNum": 1,
+          "entries": [
+            {
+              "discount": "",
+              "discountColor": "#38c2aa",
+              "content": "9.5元单人餐，11元单人餐，20元小食套餐，25元双人餐",
+              "icon": "https://p1.meituan.net/travelcube/734c7f818631a0aa8e49a814b90b1b771242.png",
+              "promotion": "立减10.1",
+              "hasBorder": 0,
+              "borderColor": ""
+            }
+          ]
+        },
+        "combo": {
+          "defaultShowNum": 0,
+          "entries": []
+        }
+      },
+      "ctPoi": "327362217440331927674431848535865745255_a165676770_c13_e189157664568544507",
+      "extraServiceIcons": [],
+      "distance": ""
+    },
+    {
+      "avgPrice": 50,
+      "avgScore": 5,
+      "cateName": "鱼火锅",
+      "channel": "food",
+      "showType": "",
+      "frontImg": "//p0.meituan.net/biztone/699250293_1615112636083.jpeg",
+      "lat": 28.589016,
+      "lng": 115.884957,
+      "name": "老船舫·现做鲜鱼馆（COCO悦城店）",
+      "poiid": "699250293",
+      "areaName": "象湖",
+      "poiImgExtra": {},
+      "extraServiceTags": [],
+      "rotationTags": [],
+      "smartTags": [
+        {
+          "icon": "",
+          "text": {
+            "content": "象湖火锅人气榜第1名",
+            "color": "#be9e4d",
+            "backgroundColor": "#fbf4e4",
+            "borderColor": ""
+          }
+        },
+        {
+          "icon": "",
+          "text": {
+            "content": "回头客多",
+            "color": "#be9e4d",
+            "backgroundColor": "#fbf4e4",
+            "borderColor": ""
+          }
+        },
+        {
+          "icon": "",
+          "text": {
+            "content": "促销中",
+            "color": "#be9e4d",
+            "backgroundColor": "#fbf4e4",
+            "borderColor": ""
+          }
+        }
+      ],
+      "preferentialInfo": {
+        "hiddenNumber": 0,
+        "maidan": {
+          "defaultShowNum": 2,
+          "entries": [
+            {
+              "discount": "",
+              "discountColor": "#38c2aa",
+              "content": "单人餐10元，2-3人餐158元，4-6人餐268元",
+              "icon": "https://p1.meituan.net/travelcube/734c7f818631a0aa8e49a814b90b1b771242.png",
+              "promotion": "",
+              "hasBorder": 0,
+              "borderColor": ""
+            },
+            {
+              "discount": "",
+              "discountColor": "#ff8822",
+              "content": "89代100元",
+              "icon": "http://p1.meituan.net/codeman/5b202af2ecf82c69a433a246296ca4791278.png",
+              "hasBorder": 0,
+              "borderColor": ""
+            }
+          ]
+        },
+        "combo": {
+          "defaultShowNum": 0,
+          "entries": []
+        }
+      },
+      "ctPoi": "327362217440331927674431848535865745255_a699250293_c14_e189157664568544507",
+      "extraServiceIcons": [],
+      "distance": ""
+    },
+    {
+      "avgPrice": 58,
+      "avgScore": 4.9,
+      "cateName": "串串香",
+      "channel": "food",
+      "showType": "",
+      "frontImg": "https://img.meituan.net/msmerchant/481ae96ce8de9f782092684e5370d0c664834.jpg",
+      "lat": 28.371521,
+      "lng": 116.261277,
+      "name": "百味记小郡肝砂罐串串（进贤总店）",
+      "poiid": "185042766",
+      "areaName": "",
+      "poiImgExtra": {},
+      "extraServiceTags": [],
+      "rotationTags": [],
+      "smartTags": [
+        {
+          "icon": "",
+          "text": {
+            "content": "进贤县火锅人气榜第1名",
+            "color": "#be9e4d",
+            "backgroundColor": "#fbf4e4",
+            "borderColor": ""
+          }
+        }
+      ],
+      "preferentialInfo": {
+        "hiddenNumber": 0,
+        "maidan": {
+          "defaultShowNum": 2,
+          "entries": [
+            {
+              "discount": "",
+              "discountColor": "#38c2aa",
+              "content": "双人餐106.2元，126元3-4人套餐",
+              "icon": "https://p1.meituan.net/travelcube/734c7f818631a0aa8e49a814b90b1b771242.png",
+              "promotion": "",
+              "hasBorder": 0,
+              "borderColor": ""
+            },
+            {
+              "discount": "",
+              "discountColor": "#ff8822",
+              "content": "80代100元",
+              "icon": "http://p1.meituan.net/codeman/5b202af2ecf82c69a433a246296ca4791278.png",
+              "hasBorder": 0,
+              "borderColor": ""
+            }
+          ]
+        },
+        "combo": {
+          "defaultShowNum": 0,
+          "entries": []
+        }
+      },
+      "ctPoi": "327362217440331927674431848535865745255_a185042766_c0_e189157664568544507",
+      "extraServiceIcons": [],
+      "distance": ""
+    },
+    {
+      "avgPrice": 40,
+      "avgScore": 5,
+      "cateName": "融合烤肉",
+      "channel": "food",
+      "showType": "",
+      "frontImg": "https://img.meituan.net/msmerchant/0a6827d0e0966a4a30a2d2055c6aa2832440106.jpg",
+      "lat": 28.673674,
+      "lng": 116.017016,
+      "name": "拾嘉烤肉（新力都荟店）",
+      "poiid": "1232270225",
+      "areaName": "瑶湖区",
+      "poiImgExtra": {},
+      "extraServiceTags": [
+        {
+          "icon": "",
+          "text": {
+            "content": "支持买单",
+            "color": "#6cbab2",
+            "backgroundColor": ""
+          }
+        }
+      ],
+      "rotationTags": [],
+      "smartTags": [
+        {
+          "icon": "",
+          "text": {
+            "content": "瑶湖区烧烤龙虾人气榜第2名",
+            "color": "#be9e4d",
+            "backgroundColor": "#fbf4e4",
+            "borderColor": ""
+          }
+        }
+      ],
+      "preferentialInfo": {
+        "hiddenNumber": 0,
+        "maidan": {
+          "defaultShowNum": 2,
+          "entries": [
+            {
+              "discount": "",
+              "discountColor": "#38c2aa",
+              "content": "双人餐79元，3-4人餐139元",
+              "icon": "https://p1.meituan.net/travelcube/734c7f818631a0aa8e49a814b90b1b771242.png",
+              "promotion": "立减10",
+              "hasBorder": 0,
+              "borderColor": ""
+            },
+            {
+              "discount": "",
+              "discountColor": "#ff8822",
+              "content": "68代100元",
+              "icon": "http://p1.meituan.net/codeman/5b202af2ecf82c69a433a246296ca4791278.png",
+              "hasBorder": 0,
+              "borderColor": ""
+            }
+          ]
+        },
+        "combo": {
+          "defaultShowNum": 0,
+          "entries": []
+        }
+      },
+      "ctPoi": "327362217440331927674431848535865745255_a1232270225_c1_e189157664568544507",
+      "extraServiceIcons": [],
+      "distance": ""
+    },
+    {
+      "avgPrice": 80,
+      "avgScore": 4.5,
+      "cateName": "江西菜",
+      "channel": "food",
+      "showType": "",
+      "frontImg": "https://p0.meituan.net/deal/6adaa89380d78f8f10510f36d6b1a8e785242.jpg",
+      "lat": 28.69258,
+      "lng": 115.86502,
+      "name": "小飞甲·甲鱼·小龙虾·烧烤（第一街区店）",
+      "poiid": "1217000335",
+      "areaName": "第一街区",
+      "reportMessage": {
+        "adsClickUrl": "https://mlog.dianping.com/api/cpv/billing?mbid=1.05&productid=74&display_id=50017&bg=0&pctr=0.03198779247202441&ad_cj=HQZ5ysIAzqpC8mnIq8RIelDvyIWSEVliOFo_FZh4c1PJu6uFXlMiI5owOt5m0jIorgzKTPQKZvdujewQoGCO2Ohsijia63guVFd6cW5VhtnZClUd-TL9Zs9I1J-5QJHXcn9YN3Pb0D5xRcMODGW_&ad_ci=HQZ5wsMQwuMKoHHc88tPbgK-idvPR3Z5NQRrGphhc0WN6erXHUITPpd5coQx3zIrqA7cDqFIAaslirhFq2CW3ex4y23euG4xT3wuIGNQg9fIXA1tmET4ac5I1562FMA&discount=1&rankScore=3.189571333597825E-4&mtlaunch_city_id=83&bu=2&category_id=247&pos=1&mtuser_id64=0&pcvr=6.428571428571429E-4&client_version=8.3.0&mtdpid=1c7250ef987f4e639d8b.1616478057.1.0.0&bottomprice=1.0&user_agent=touch&launch_city_id=0&mtcategory_ids=1&sver=2&AdExpPath=18-338-2099,3-169-830,3-287-1751,3-140-565,3-50-100,3-61-1769,3-164-792,3-227-1297,3-12-28,18-293-1778,3-201-1096,3-296-1803&bottomfen=100&mtuser_id=0&adsCtrStrategy=SelectBaseline&page_city_id=0&entityplat=2&ad_v=2&mtadshop_id=1217000335&mtpage_city_id=83&adidx=33&act=2",
+        "adsImpressionUrl": "https://mlog.dianping.com/api/cpv/action?mbid=1.05&productid=74&display_id=50017&bg=0&pctr=0.03198779247202441&ad_cj=HQZ5ysIAzqpC8mnIq8RIelDvyIWSEVliOFo_FZh4c1PJu6uFXlMiI5owOt5m0jIorgzKTPQKZvdujewQoGCO2Ohsijia63guVFd6cW5VhtnZClUd-TL9Zs9I1J-5QJHXcn9YN3Pb0D5xRcMODGW_&ad_ci=HQZ5wsMQwuMKoHHc88tPbgK-idvPR3Z5NQRrGphhc0WN6erXHUITPpd5coQx3zIrqA7cDqFIAaslirhFq2CW3ex4y23euG4xT3wuIGNQg9fIXA1tmET4ac5I1562FMA&discount=1&rankScore=3.189571333597825E-4&mtlaunch_city_id=83&bu=2&category_id=247&pos=1&mtuser_id64=0&pcvr=6.428571428571429E-4&client_version=8.3.0&mtdpid=1c7250ef987f4e639d8b.1616478057.1.0.0&bottomprice=1.0&user_agent=touch&launch_city_id=0&mtcategory_ids=1&sver=2&AdExpPath=18-338-2099,3-169-830,3-287-1751,3-140-565,3-50-100,3-61-1769,3-164-792,3-227-1297,3-12-28,18-293-1778,3-201-1096,3-296-1803&bottomfen=100&mtuser_id=0&adsCtrStrategy=SelectBaseline&page_city_id=0&entityplat=2&ad_v=2&mtadshop_id=1217000335&mtpage_city_id=83&adidx=33&act=3"
+      },
+      "poiImgExtra": {
+        "topRight": {
+          "icon": "",
+          "text": {
+            "content": "广告",
+            "color": "",
+            "backgroundColor": ""
+          }
+        }
+      },
+      "extraServiceTags": [
+        {
+          "icon": "",
+          "text": {
+            "content": "支持预订",
+            "color": "#6cbab2",
+            "backgroundColor": ""
+          }
+        }
+      ],
+      "shopKeeperSay": {
+        "icon": "http://p1.meituan.net/codeman/7df7e1db853b6ef52c412f953aa58b82362.png",
+        "text": {
+          "content": "掌柜说:会员 逢周日送酒糟鱼一份",
+          "color": "#999999",
+          "backgroundColor": ""
+        }
+      },
+      "rotationTags": [
+        {
+          "icon": "http://p1.meituan.net/codeman/7df7e1db853b6ef52c412f953aa58b82362.png",
+          "text": {
+            "content": "掌柜说:会员 逢周日送酒糟鱼一份",
+            "color": "#999999",
+            "backgroundColor": ""
+          }
+        }
+      ],
+      "preferentialInfo": {
+        "hiddenNumber": 0,
+        "maidan": {
+          "defaultShowNum": 2,
+          "entries": [
+            {
+              "discount": "",
+              "discountColor": "#38c2aa",
+              "content": "双人餐148元，3-4人餐198元",
+              "icon": "https://p1.meituan.net/travelcube/734c7f818631a0aa8e49a814b90b1b771242.png",
+              "promotion": "",
+              "hasBorder": 0,
+              "borderColor": ""
+            },
+            {
+              "discount": "",
+              "discountColor": "#ff8822",
+              "content": "47.5代50元",
+              "icon": "http://p1.meituan.net/codeman/5b202af2ecf82c69a433a246296ca4791278.png",
+              "hasBorder": 0,
+              "borderColor": ""
+            }
+          ]
+        },
+        "combo": {
+          "defaultShowNum": 0,
+          "entries": []
+        }
+      },
+      "ctPoi": "004584292826848322752040319172543177889_a1217000335_c2_e189157664568544507_v5497513358799357757__1000",
+      "extraServiceIcons": [],
+      "distance": ""
+    },
+    {
+      "avgPrice": 15,
+      "avgScore": 5,
+      "cateName": "日式小吃",
+      "channel": "food",
+      "showType": "",
+      "frontImg": "https://img.meituan.net/msmerchant/f19574d2f77f1cad072c5ce1560ae2cd4646798.jpg",
+      "lat": 28.672856,
+      "lng": 115.939168,
+      "name": "大口章鱼烧（梦时代店）",
+      "poiid": "1559279526",
+      "areaName": "上海路",
+      "poiImgExtra": {},
+      "extraServiceTags": [],
+      "rotationTags": [],
+      "smartTags": [
+        {
+          "icon": "",
+          "text": {
+            "content": "上海路小吃快餐人气榜第1名",
+            "color": "#be9e4d",
+            "backgroundColor": "#fbf4e4",
+            "borderColor": ""
+          }
+        },
+        {
+          "icon": "",
+          "text": {
+            "content": "回头客多",
+            "color": "#be9e4d",
+            "backgroundColor": "#fbf4e4",
+            "borderColor": ""
+          }
+        }
+      ],
+      "preferentialInfo": {
+        "hiddenNumber": 0,
+        "maidan": {
+          "defaultShowNum": 1,
+          "entries": [
+            {
+              "discount": "",
+              "discountColor": "#38c2aa",
+              "content": "11.9元原味章鱼烧",
+              "icon": "https://p1.meituan.net/travelcube/734c7f818631a0aa8e49a814b90b1b771242.png",
+              "promotion": "",
+              "hasBorder": 0,
+              "borderColor": ""
+            }
+          ]
+        },
+        "combo": {
+          "defaultShowNum": 0,
+          "entries": []
+        }
+      },
+      "ctPoi": "327362217440331927674431848535865745255_a1559279526_c3_e189157664568544507",
+      "extraServiceIcons": [],
+      "distance": ""
+    },
+    {
+      "avgPrice": 68,
+      "avgScore": 4.9,
+      "cateName": "潮汕牛肉火锅",
+      "channel": "food",
+      "showType": "",
+      "frontImg": "//p0.meituan.net/biztone/0dae67b5c7e795819f5c471521e0828c104817.jpg",
+      "lat": 28.6665,
+      "lng": 115.83919,
+      "name": "古乐牛香牛肉牛杂火锅（岭口路店）",
+      "poiid": "1292521061",
+      "areaName": "红角洲/前湖大学城",
+      "poiImgExtra": {},
+      "extraServiceTags": [],
+      "rotationTags": [],
+      "smartTags": [
+        {
+          "icon": "",
+          "text": {
+            "content": "红角洲/前湖大学城火锅人气榜第1名",
+            "color": "#be9e4d",
+            "backgroundColor": "#fbf4e4",
+            "borderColor": ""
+          }
+        },
+        {
+          "icon": "",
+          "text": {
+            "content": "回头客多",
+            "color": "#be9e4d",
+            "backgroundColor": "#fbf4e4",
+            "borderColor": ""
+          }
+        }
+      ],
+      "preferentialInfo": {
+        "hiddenNumber": 0,
+        "maidan": {
+          "defaultShowNum": 2,
+          "entries": [
+            {
+              "discount": "",
+              "discountColor": "#38c2aa",
+              "content": "双人餐128元，4人餐188元",
+              "icon": "https://p1.meituan.net/travelcube/734c7f818631a0aa8e49a814b90b1b771242.png",
+              "promotion": "",
+              "hasBorder": 0,
+              "borderColor": ""
+            },
+            {
+              "discount": "",
+              "discountColor": "#ff8822",
+              "content": "85代100元",
+              "icon": "http://p1.meituan.net/codeman/5b202af2ecf82c69a433a246296ca4791278.png",
+              "hasBorder": 0,
+              "borderColor": ""
+            }
+          ]
+        },
+        "combo": {
+          "defaultShowNum": 0,
+          "entries": []
+        }
+      },
+      "ctPoi": "327362217440331927674431848535865745255_a1292521061_c4_e189157664568544507",
+      "extraServiceIcons": [],
+      "distance": ""
+    },
+    {
+      "avgPrice": 17,
+      "avgScore": 4.8,
+      "cateName": "螺蛳粉",
+      "channel": "food",
+      "showType": "",
+      "frontImg": "//p0.meituan.net/biztone/3546c782f3298ff2e086ed40d60cc7fb860602.jpg",
+      "lat": 28.653235,
+      "lng": 115.904494,
+      "name": "稻未螺蛳粉（王府井店）",
+      "poiid": "1601754961",
+      "areaName": "王府井",
+      "poiImgExtra": {},
+      "extraServiceTags": [
+        {
+          "icon": "",
+          "text": {
+            "content": "支持买单",
+            "color": "#6cbab2",
+            "backgroundColor": ""
+          }
+        }
+      ],
+      "rotationTags": [],
+      "smartTags": [
+        {
+          "icon": "",
+          "text": {
+            "content": "王府井小吃快餐人气榜第1名",
+            "color": "#be9e4d",
+            "backgroundColor": "#fbf4e4",
+            "borderColor": ""
+          }
+        },
+        {
+          "icon": "",
+          "text": {
+            "content": "新店特惠",
+            "color": "#be9e4d",
+            "backgroundColor": "#fbf4e4",
+            "borderColor": ""
+          }
+        }
+      ],
+      "preferentialInfo": {
+        "hiddenNumber": 0,
+        "maidan": {
+          "defaultShowNum": 2,
+          "entries": [
+            {
+              "discount": "",
+              "discountColor": "#38c2aa",
+              "content": "1元鸡柳一串，9.9元尝鲜特惠螺蛳粉，12元单人螺蛳粉，12.9元单人招牌餐，14.9元特惠单人餐，19.9元私人定制套餐，24.8元螺蛳粉双人套餐，38.8元情侣套餐，2-3人餐48元",
+              "icon": "https://p1.meituan.net/travelcube/734c7f818631a0aa8e49a814b90b1b771242.png",
+              "promotion": "限时减5",
+              "hasBorder": 0,
+              "borderColor": ""
+            },
+            {
+              "discount": "",
+              "discountColor": "#ff8822",
+              "content": "15代20元",
+              "icon": "http://p1.meituan.net/codeman/5b202af2ecf82c69a433a246296ca4791278.png",
+              "hasBorder": 0,
+              "borderColor": ""
+            }
+          ]
+        },
+        "combo": {
+          "defaultShowNum": 0,
+          "entries": []
+        }
+      },
+      "ctPoi": "327362217440331927674431848535865745255_a1601754961_c5_e189157664568544507",
+      "extraServiceIcons": [],
+      "distance": ""
+    },
+    {
+      "avgPrice": 15,
+      "avgScore": 4.7,
+      "cateName": "炸鸡炸串",
+      "channel": "food",
+      "showType": "",
+      "frontImg": "//p0.meituan.net/bbia/909f17f03c7afa6336062f01f48205bb69776.jpg",
+      "lat": 28.430451,
+      "lng": 115.969191,
+      "name": "正新鸡排（向塘店）",
+      "poiid": "94570312",
+      "areaName": "向塘镇",
+      "poiImgExtra": {},
+      "extraServiceTags": [],
+      "rotationTags": [],
+      "preferentialInfo": {
+        "hiddenNumber": 0,
+        "maidan": {
+          "defaultShowNum": 1,
+          "entries": [
+            {
+              "discount": "",
+              "discountColor": "#38c2aa",
+              "content": "11.9元(到店吃)正新鸡排1份，11.9元11.9鸡排一份",
+              "icon": "https://p1.meituan.net/travelcube/734c7f818631a0aa8e49a814b90b1b771242.png",
+              "promotion": "立减4",
+              "hasBorder": 0,
+              "borderColor": ""
+            }
+          ]
+        },
+        "combo": {
+          "defaultShowNum": 0,
+          "entries": []
+        }
+      },
+      "ctPoi": "327362217440331927674431848535865745255_a94570312_c6_e189157664568544507",
+      "extraServiceIcons": [],
+      "distance": ""
+    },
+    {
+      "avgPrice": 39,
+      "avgScore": 4.2,
+      "cateName": "小吃快餐",
+      "channel": "food",
+      "showType": "",
+      "frontImg": "https://img.meituan.net/msmerchant/c3be729d8465dc8903b61a7218db7418126951.jpg",
+      "lat": 28.682169,
+      "lng": 115.893073,
+      "name": "四喜的老店（建德观店）",
+      "poiid": "833266773",
+      "areaName": "百花洲",
+      "reportMessage": {
+        "adsClickUrl": "https://mlog.dianping.com/api/cpv/billing?mbid=0.5&productid=74&display_id=50017&bg=0&pctr=0.038885505481120575&ad_cj=HNCP3IRgpeKg4Df1tAfLJQQJhDhQ_yQ3tDLT0AnZoY4ypSrwwzylnP_7MFv8H2fLGmd3jIVzW_NiHyhjUvcs6YAoVzbQLBRpCaSDwBKtQgiTAOS5l-LkeIkQNmrzTXLwbDw3FOh5c941wQSK&ad_ci=HNCP1IVwqavosi_h7AjCO1ZaxWYJqQssuWyO3grFop5x82uxwyaOnO-_aAf1EGfJG2JnydcxKfhmHihiSvM8rtRrEWOWfjhsAu2LwRuqRg6GULjC8pjgKoQWY2ahXnc&discount=1&rankScore=2.9305754733382973E-4&mtlaunch_city_id=83&bu=28&category_id=112&pos=1&mtuser_id64=0&pcvr=0.0016707818930041156&client_version=8.3.0&mtdpid=1c7250ef987f4e639d8b.1616478057.1.0.0&bottomprice=0.3&user_agent=touch&launch_city_id=0&mtcategory_ids=1&sver=2&AdExpPath=18-338-2099,3-169-830,3-287-1751,3-140-565,3-50-100,3-61-1769,3-164-792,3-227-1297,3-12-28,18-293-1778,3-201-1096,3-296-1803&bottomfen=30&mtuser_id=0&adsCtrStrategy=SelectBaseline&page_city_id=0&entityplat=2&ad_v=2&mtadshop_id=833266773&mtpage_city_id=83&adidx=38&act=2",
+        "adsImpressionUrl": "https://mlog.dianping.com/api/cpv/action?mbid=0.5&productid=74&display_id=50017&bg=0&pctr=0.038885505481120575&ad_cj=HNCP3IRgpeKg4Df1tAfLJQQJhDhQ_yQ3tDLT0AnZoY4ypSrwwzylnP_7MFv8H2fLGmd3jIVzW_NiHyhjUvcs6YAoVzbQLBRpCaSDwBKtQgiTAOS5l-LkeIkQNmrzTXLwbDw3FOh5c941wQSK&ad_ci=HNCP1IVwqavosi_h7AjCO1ZaxWYJqQssuWyO3grFop5x82uxwyaOnO-_aAf1EGfJG2JnydcxKfhmHihiSvM8rtRrEWOWfjhsAu2LwRuqRg6GULjC8pjgKoQWY2ahXnc&discount=1&rankScore=2.9305754733382973E-4&mtlaunch_city_id=83&bu=28&category_id=112&pos=1&mtuser_id64=0&pcvr=0.0016707818930041156&client_version=8.3.0&mtdpid=1c7250ef987f4e639d8b.1616478057.1.0.0&bottomprice=0.3&user_agent=touch&launch_city_id=0&mtcategory_ids=1&sver=2&AdExpPath=18-338-2099,3-169-830,3-287-1751,3-140-565,3-50-100,3-61-1769,3-164-792,3-227-1297,3-12-28,18-293-1778,3-201-1096,3-296-1803&bottomfen=30&mtuser_id=0&adsCtrStrategy=SelectBaseline&page_city_id=0&entityplat=2&ad_v=2&mtadshop_id=833266773&mtpage_city_id=83&adidx=38&act=3"
+      },
+      "poiImgExtra": {
+        "topRight": {
+          "icon": "",
+          "text": {
+            "content": "广告",
+            "color": "",
+            "backgroundColor": ""
+          }
+        }
+      },
+      "extraServiceTags": [
+        {
+          "icon": "",
+          "text": {
+            "content": "支持买单",
+            "color": "#6cbab2",
+            "backgroundColor": ""
+          }
+        }
+      ],
+      "shopKeeperSay": {
+        "icon": "http://p1.meituan.net/codeman/7df7e1db853b6ef52c412f953aa58b82362.png",
+        "text": {
+          "content": "掌柜说:老牌网红",
+          "color": "#999999",
+          "backgroundColor": ""
+        }
+      },
+      "rotationTags": [
+        {
+          "icon": "http://p1.meituan.net/codeman/7df7e1db853b6ef52c412f953aa58b82362.png",
+          "text": {
+            "content": "掌柜说:老牌网红",
+            "color": "#999999",
+            "backgroundColor": ""
+          }
+        }
+      ],
+      "preferentialInfo": {
+        "hiddenNumber": 0,
+        "maidan": {
+          "defaultShowNum": 2,
+          "entries": [
+            {
+              "discount": "",
+              "discountColor": "#38c2aa",
+              "content": "9.9元牛骨粉，19.9元四喜经典单人餐，180元套餐",
+              "icon": "https://p1.meituan.net/travelcube/734c7f818631a0aa8e49a814b90b1b771242.png",
+              "promotion": "",
+              "hasBorder": 0,
+              "borderColor": ""
+            },
+            {
+              "discount": "",
+              "discountColor": "#ff8822",
+              "content": "4.8代10元，24.8代50.8元",
+              "icon": "http://p1.meituan.net/codeman/5b202af2ecf82c69a433a246296ca4791278.png",
+              "hasBorder": 0,
+              "borderColor": ""
+            }
+          ]
+        },
+        "combo": {
+          "defaultShowNum": 0,
+          "entries": []
+        }
+      },
+      "ctPoi": "004584292826848322752040319172543177889_a833266773_c7_e189157664568544507_v5497513358799357757__1000",
+      "extraServiceIcons": [],
+      "distance": ""
+    },
+    {
+      "avgPrice": 53,
+      "avgScore": 4.8,
+      "cateName": "潮汕牛肉火锅",
+      "channel": "food",
+      "showType": "",
+      "frontImg": "//p1.meituan.net/merchant/b28495dab89ee81c235ae7b2d1b2123e108977.jpg",
+      "lat": 28.695163,
+      "lng": 115.969186,
+      "name": "古乐牛香·鲜牛肉牛杂火锅（高新店）",
+      "poiid": "189903727",
+      "areaName": "京东大道",
+      "poiImgExtra": {},
+      "extraServiceTags": [
+        {
+          "icon": "",
+          "text": {
+            "content": "支持买单",
+            "color": "#6cbab2",
+            "backgroundColor": ""
+          }
+        },
+        {
+          "icon": "",
+          "text": {
+            "content": "预订",
+            "color": "#6cbab2",
+            "backgroundColor": ""
+          }
+        }
+      ],
+      "rotationTags": [],
+      "smartTags": [
+        {
+          "icon": "",
+          "text": {
+            "content": "青山湖区火锅人气榜第1名",
+            "color": "#be9e4d",
+            "backgroundColor": "#fbf4e4",
+            "borderColor": ""
+          }
+        },
+        {
+          "icon": "",
+          "text": {
+            "content": "回头客多",
+            "color": "#be9e4d",
+            "backgroundColor": "#fbf4e4",
+            "borderColor": ""
+          }
+        }
+      ],
+      "preferentialInfo": {
+        "hiddenNumber": 0,
+        "maidan": {
+          "defaultShowNum": 2,
+          "entries": [
+            {
+              "discount": "",
+              "discountColor": "#38c2aa",
+              "content": "双人餐109元，4人餐188元",
+              "icon": "https://p1.meituan.net/travelcube/734c7f818631a0aa8e49a814b90b1b771242.png",
+              "promotion": "",
+              "hasBorder": 0,
+              "borderColor": ""
+            },
+            {
+              "discount": "",
+              "discountColor": "#ff8822",
+              "content": "85代100元",
+              "icon": "http://p1.meituan.net/codeman/5b202af2ecf82c69a433a246296ca4791278.png",
+              "hasBorder": 0,
+              "borderColor": ""
+            }
+          ]
+        },
+        "combo": {
+          "defaultShowNum": 0,
+          "entries": []
+        }
+      },
+      "ctPoi": "327362217440331927674431848535865745255_a189903727_c8_e189157664568544507",
+      "extraServiceIcons": [],
+      "distance": ""
+    },
+    {
+      "avgPrice": 12,
+      "avgScore": 4.7,
+      "cateName": "奶茶/果汁",
+      "channel": "food",
+      "showType": "",
+      "frontImg": "https://img.meituan.net/msmerchant/c1b74df19fb2eaae7eb661f3ba4ad831977012.jpg",
+      "lat": 28.644793,
+      "lng": 115.963718,
+      "name": "书亦烧仙草（青山湖万达广场店）",
+      "poiid": "679954440",
+      "areaName": "解放东路",
+      "poiImgExtra": {},
+      "extraServiceTags": [],
+      "rotationTags": [],
+      "smartTags": [
+        {
+          "icon": "",
+          "text": {
+            "content": "解放东路甜点饮品人气榜第1名",
+            "color": "#be9e4d",
+            "backgroundColor": "#fbf4e4",
+            "borderColor": ""
+          }
+        },
+        {
+          "icon": "",
+          "text": {
+            "content": "回头客多",
+            "color": "#be9e4d",
+            "backgroundColor": "#fbf4e4",
+            "borderColor": ""
+          }
+        }
+      ],
+      "preferentialInfo": {
+        "hiddenNumber": 0,
+        "maidan": {
+          "defaultShowNum": 2,
+          "entries": [
+            {
+              "discount": "",
+              "discountColor": "#38c2aa",
+              "content": "7.5元书亦烧仙草，9.9元书亦烧仙草 大杯，10.5元书亦团购，10.9元【江西】葡萄芋圆冻冻，11.9元【江西】草莓啵啵益菌多，12.9元芋泥全家福，13.9元【江西】杨枝甘露（大杯），20.9元布蕾小啵啵奶茶，20.9元【江西】书亦烧仙草（大杯）+黑糖小芋圆奶茶，23.9元椰椰烧仙草（大杯",
+              "icon": "https://p1.meituan.net/travelcube/734c7f818631a0aa8e49a814b90b1b771242.png",
+              "promotion": "立减11",
+              "hasBorder": 0,
+              "borderColor": ""
+            },
+            {
+              "discount": "",
+              "discountColor": "#ff8822",
+              "content": "24代30元",
+              "icon": "http://p1.meituan.net/codeman/5b202af2ecf82c69a433a246296ca4791278.png",
+              "hasBorder": 0,
+              "borderColor": ""
+            }
+          ]
+        },
+        "combo": {
+          "defaultShowNum": 0,
+          "entries": []
+        }
+      },
+      "ctPoi": "327362217440331927674431848535865745255_a679954440_c9_e189157664568544507",
+      "extraServiceIcons": [],
+      "distance": ""
+    },
+    {
+      "avgPrice": 15,
+      "avgScore": 4.7,
+      "cateName": "奶茶/果汁",
+      "channel": "food",
+      "showType": "",
+      "frontImg": "https://img.meituan.net/msmerchant/66b8919af723cd34730d80e79ff4493a1213227.jpg",
+      "lat": 28.711945,
+      "lng": 115.970746,
+      "name": "ARTEASG（高新吾悦店）",
+      "poiid": "1049458936",
+      "areaName": "京东大道",
+      "poiImgExtra": {},
+      "extraServiceTags": [],
+      "rotationTags": [],
+      "smartTags": [
+        {
+          "icon": "",
+          "text": {
+            "content": "京东大道甜点饮品人气榜第1名",
+            "color": "#be9e4d",
+            "backgroundColor": "#fbf4e4",
+            "borderColor": ""
+          }
+        },
+        {
+          "icon": "",
+          "text": {
+            "content": "回头客多",
+            "color": "#be9e4d",
+            "backgroundColor": "#fbf4e4",
+            "borderColor": ""
+          }
+        }
+      ],
+      "preferentialInfo": {
+        "hiddenNumber": 0,
+        "maidan": {
+          "defaultShowNum": 1,
+          "entries": [
+            {
+              "discount": "",
+              "discountColor": "#38c2aa",
+              "content": "13.6元有饼干的茶系列，14元雪顶椰脆（冷/热），14.96元饮品，15.3元黑糖奶霜系列，16.15元茉香豆乳芝士",
+              "icon": "https://p1.meituan.net/travelcube/734c7f818631a0aa8e49a814b90b1b771242.png",
+              "promotion": "",
+              "hasBorder": 0,
+              "borderColor": ""
+            }
+          ]
+        },
+        "combo": {
+          "defaultShowNum": 0,
+          "entries": []
+        }
+      },
+      "ctPoi": "327362217440331927674431848535865745255_a1049458936_c10_e189157664568544507",
+      "extraServiceIcons": [],
+      "distance": ""
+    },
+    {
+      "avgPrice": 60,
+      "avgScore": 4.8,
+      "cateName": "融合烤肉",
+      "channel": "food",
+      "showType": "",
+      "frontImg": "https://img.meituan.net/msmerchant/8b3ee3642b6019307d4f1d01f71f9e7c445677.jpg",
+      "lat": 28.674314,
+      "lng": 116.022103,
+      "name": "酒拾烤肉（奥体天虹店）",
+      "poiid": "1100233883",
+      "areaName": "瑶湖区",
+      "poiImgExtra": {},
+      "extraServiceTags": [],
+      "rotationTags": [],
+      "smartTags": [
+        {
+          "icon": "",
+          "text": {
+            "content": "南昌县烧烤龙虾人气榜第1名",
+            "color": "#be9e4d",
+            "backgroundColor": "#fbf4e4",
+            "borderColor": ""
+          }
+        },
+        {
+          "icon": "",
+          "text": {
+            "content": "回头客多",
+            "color": "#be9e4d",
+            "backgroundColor": "#fbf4e4",
+            "borderColor": ""
+          }
+        }
+      ],
+      "preferentialInfo": {
+        "hiddenNumber": 0,
+        "maidan": {
+          "defaultShowNum": 2,
+          "entries": [
+            {
+              "discount": "",
+              "discountColor": "#38c2aa",
+              "content": "单人餐6元起，2-3人餐99元，3-4人餐166元",
+              "icon": "https://p1.meituan.net/travelcube/734c7f818631a0aa8e49a814b90b1b771242.png",
+              "promotion": "立减5元",
+              "hasBorder": 0,
+              "borderColor": ""
+            },
+            {
+              "discount": "",
+              "discountColor": "#ff8822",
+              "content": "88代100元",
+              "icon": "http://p1.meituan.net/codeman/5b202af2ecf82c69a433a246296ca4791278.png",
+              "promotion": "立减9",
+              "hasBorder": 0,
+              "borderColor": ""
+            }
+          ]
+        },
+        "combo": {
+          "defaultShowNum": 0,
+          "entries": []
+        }
+      },
+      "ctPoi": "327362217440331927674431848535865745255_a1100233883_c11_e189157664568544507",
+      "extraServiceIcons": [],
+      "distance": ""
+    },
+    {
+      "avgPrice": 15,
+      "avgScore": 4.4,
+      "cateName": "快餐简餐",
+      "channel": "food",
+      "showType": "",
+      "frontImg": "https://p0.meituan.net/deal/4955e4b413c4cd3742a18a2cf201d8ca129908.jpg",
+      "lat": 28.674205,
+      "lng": 115.898715,
+      "name": "重庆小面木桶饭",
+      "poiid": "159621505",
+      "areaName": "孺子亭",
+      "reportMessage": {
+        "adsClickUrl": "https://mlog.dianping.com/api/cpv/billing?mbid=0.3&productid=74&display_id=50017&bg=0&pctr=0.03621714285714285&ad_cj=c9mNsRdfglBlK4WSuEzXJ-cR9HwllDNlAwON5-80q1Lygib5ktaK8uX5LrxPZI2uL7W3olQ3lpQbpsz0hukheobJNIERKgJlexY7PcQGn2lWWWg_BASP8YBcug1hMrwJa-ATwVzMimmZ_d8&ad_ci=c9mNuRZPjhkteZ2G4EPfNL5GsyV4whx-Dl3R6OcprEe-13L7mda87_iteLFOZ4OgJbSk4ARgoJQS_sHrg_5lKsaOYsJQUxhtKVcyMcMDn21DDzlLb36BpdIJuA11MuQ&discount=1&rankScore=2.928927078477863E-4&mtlaunch_city_id=83&bu=28&category_id=112&pos=1&mtuser_id64=0&pcvr=0.008000000000000002&client_version=8.3.0&mtdpid=1c7250ef987f4e639d8b.1616478057.1.0.0&bottomprice=0.3&user_agent=touch&launch_city_id=0&mtcategory_ids=1&sver=2&AdExpPath=18-338-2099,3-169-830,3-287-1751,3-140-565,3-50-100,3-61-1769,3-164-792,3-227-1297,3-12-28,18-293-1778,3-201-1096,3-296-1803&bottomfen=30&mtuser_id=0&adsCtrStrategy=SelectBaseline&page_city_id=0&entityplat=2&ad_v=2&mtadshop_id=159621505&mtpage_city_id=83&adidx=43&act=2",
+        "adsImpressionUrl": "https://mlog.dianping.com/api/cpv/action?mbid=0.3&productid=74&display_id=50017&bg=0&pctr=0.03621714285714285&ad_cj=c9mNsRdfglBlK4WSuEzXJ-cR9HwllDNlAwON5-80q1Lygib5ktaK8uX5LrxPZI2uL7W3olQ3lpQbpsz0hukheobJNIERKgJlexY7PcQGn2lWWWg_BASP8YBcug1hMrwJa-ATwVzMimmZ_d8&ad_ci=c9mNuRZPjhkteZ2G4EPfNL5GsyV4whx-Dl3R6OcprEe-13L7mda87_iteLFOZ4OgJbSk4ARgoJQS_sHrg_5lKsaOYsJQUxhtKVcyMcMDn21DDzlLb36BpdIJuA11MuQ&discount=1&rankScore=2.928927078477863E-4&mtlaunch_city_id=83&bu=28&category_id=112&pos=1&mtuser_id64=0&pcvr=0.008000000000000002&client_version=8.3.0&mtdpid=1c7250ef987f4e639d8b.1616478057.1.0.0&bottomprice=0.3&user_agent=touch&launch_city_id=0&mtcategory_ids=1&sver=2&AdExpPath=18-338-2099,3-169-830,3-287-1751,3-140-565,3-50-100,3-61-1769,3-164-792,3-227-1297,3-12-28,18-293-1778,3-201-1096,3-296-1803&bottomfen=30&mtuser_id=0&adsCtrStrategy=SelectBaseline&page_city_id=0&entityplat=2&ad_v=2&mtadshop_id=159621505&mtpage_city_id=83&adidx=43&act=3"
+      },
+      "poiImgExtra": {
+        "topRight": {
+          "icon": "",
+          "text": {
+            "content": "广告",
+            "color": "",
+            "backgroundColor": ""
+          }
+        }
+      },
+      "extraServiceTags": [],
+      "rotationTags": [],
+      "smartTags": [
+        {
+          "icon": "",
+          "text": {
+            "content": "孺子亭美食人气榜第4名",
+            "color": "#be9e4d",
+            "backgroundColor": "#fbf4e4",
+            "borderColor": ""
+          }
+        },
+        {
+          "icon": "",
+          "text": {
+            "content": "新店特惠",
+            "color": "#be9e4d",
+            "backgroundColor": "#fbf4e4",
+            "borderColor": ""
+          }
+        }
+      ],
+      "preferentialInfo": {
+        "hiddenNumber": 0,
+        "maidan": {
+          "defaultShowNum": 2,
+          "entries": [
+            {
+              "discount": "",
+              "discountColor": "#38c2aa",
+              "content": "0.99元油炸火腿肠，5.4元单人小面B，12元重庆小面，12元超值木桶饭套餐，12.8元油炸小吃，16.8元超值单人餐",
+              "icon": "https://p1.meituan.net/travelcube/734c7f818631a0aa8e49a814b90b1b771242.png",
+              "promotion": "",
+              "hasBorder": 0,
+              "borderColor": ""
+            },
+            {
+              "discount": "",
+              "discountColor": "#ff8822",
+              "content": "24代30元",
+              "icon": "http://p1.meituan.net/codeman/5b202af2ecf82c69a433a246296ca4791278.png",
+              "hasBorder": 0,
+              "borderColor": ""
+            }
+          ]
+        },
+        "combo": {
+          "defaultShowNum": 0,
+          "entries": []
+        }
+      },
+      "ctPoi": "004584292826848322752040319172543177889_a159621505_c12_e189157664568544507_v5497513358799357757__1000",
+      "extraServiceIcons": [],
+      "distance": ""
+    },
+    {
+      "avgPrice": 0,
+      "avgScore": 4.9,
+      "cateName": "综合自助",
+      "channel": "food",
+      "showType": "",
+      "frontImg": "https://img.meituan.net/msmerchant/40a5103a210c5a81e8dcccab25afba35210904.jpg",
+      "lat": 28.654166,
+      "lng": 115.921678,
+      "name": "牛太郎烤肉自助（青云印象汇店）",
+      "poiid": "992582849",
+      "areaName": "解放西路",
+      "poiImgExtra": {},
+      "extraServiceTags": [],
+      "rotationTags": [],
+      "smartTags": [
+        {
+          "icon": "",
+          "text": {
+            "content": "解放西路美食人气榜第1名",
+            "color": "#be9e4d",
+            "backgroundColor": "#fbf4e4",
+            "borderColor": ""
+          }
+        }
+      ],
+      "preferentialInfo": {
+        "hiddenNumber": 0,
+        "maidan": {
+          "defaultShowNum": 1,
+          "entries": [
+            {
+              "discount": "",
+              "discountColor": "#38c2aa",
+              "content": "单人午餐59元，单人晚餐65元",
+              "icon": "https://p1.meituan.net/travelcube/734c7f818631a0aa8e49a814b90b1b771242.png",
+              "promotion": "立减8",
+              "hasBorder": 0,
+              "borderColor": ""
+            }
+          ]
+        },
+        "combo": {
+          "defaultShowNum": 0,
+          "entries": []
+        }
+      },
+      "ctPoi": "327362217440331927674431848535865745255_a992582849_c13_e189157664568544507",
+      "extraServiceIcons": [],
+      "distance": ""
+    },
+    {
+      "avgPrice": 45,
+      "avgScore": 4.7,
+      "cateName": "海鲜",
+      "channel": "food",
+      "showType": "",
+      "frontImg": "https://img.meituan.net/msmerchant/98cbd473398808290c751f0c10f9a78d1212209.jpg",
+      "lat": 28.66644,
+      "lng": 115.89178,
+      "name": "辣小鲜·小海鲜大排档（船山路店）",
+      "poiid": "851282893",
+      "areaName": "船山路",
+      "poiImgExtra": {},
+      "extraServiceTags": [
+        {
+          "icon": "",
+          "text": {
+            "content": "支持买单",
+            "color": "#6cbab2",
+            "backgroundColor": ""
+          }
+        },
+        {
+          "icon": "",
+          "text": {
+            "content": "预订",
+            "color": "#6cbab2",
+            "backgroundColor": ""
+          }
+        }
+      ],
+      "rotationTags": [],
+      "smartTags": [
+        {
+          "icon": "",
+          "text": {
+            "content": "西湖区地方菜人气榜第2名",
+            "color": "#be9e4d",
+            "backgroundColor": "#fbf4e4",
+            "borderColor": ""
+          }
+        },
+        {
+          "icon": "",
+          "text": {
+            "content": "回头客多",
+            "color": "#be9e4d",
+            "backgroundColor": "#fbf4e4",
+            "borderColor": ""
+          }
+        },
+        {
+          "icon": "",
+          "text": {
+            "content": "促销中",
+            "color": "#be9e4d",
+            "backgroundColor": "#fbf4e4",
+            "borderColor": ""
+          }
+        }
+      ],
+      "preferentialInfo": {
+        "hiddenNumber": 0,
+        "maidan": {
+          "defaultShowNum": 2,
+          "entries": [
+            {
+              "discount": "",
+              "discountColor": "#38c2aa",
+              "content": "单人餐2.98元，2-3人餐186元",
+              "icon": "https://p1.meituan.net/travelcube/734c7f818631a0aa8e49a814b90b1b771242.png",
+              "promotion": "",
+              "hasBorder": 0,
+              "borderColor": ""
+            },
+            {
+              "discount": "",
+              "discountColor": "#ff8822",
+              "content": "48代50元",
+              "icon": "http://p1.meituan.net/codeman/5b202af2ecf82c69a433a246296ca4791278.png",
+              "hasBorder": 0,
+              "borderColor": ""
+            }
+          ]
+        },
+        "combo": {
+          "defaultShowNum": 0,
+          "entries": []
+        }
+      },
+      "ctPoi": "327362217440331927674431848535865745255_a851282893_c14_e189157664568544507",
+      "extraServiceIcons": [],
+      "distance": ""
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+.food-item-wrapper {
+  box-sizing: border-box;
+  padding: 30rpx 0 0 30rpx;
+  width: 100%;
+  border-bottom: 1px solid #e5e5e5;
+}
+.food-item-wrapper .food-info-wrapper {
+  display: flex;
+}
+.food-item-wrapper .food-info-wrapper .item-left {
+  width: 160rpx;
+  height: 160rpx;
+  overflow: hidden;
+}
+.food-item-wrapper .food-info-wrapper .item-left image {
+  width: 100%;
+}
+.food-item-wrapper .food-info-wrapper .item-right {
+  flex: 1;
+  padding: 0 20rpx;
+  border-bottom: 1px solid #e5e5e5;
+}
+.food-item-wrapper .food-info-wrapper .item-right .food-name {
+  width: 520rpx;
+  font-size: 17px;
+  font-weight: 500;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.food-item-wrapper .food-info-wrapper .item-right .star-and-price {
+  display: flex;
+}
+.food-item-wrapper .food-info-wrapper .item-right .star-and-price .iconfont::before {
+  color: #fc8444;
+}
+.food-item-wrapper .food-info-wrapper .item-right .star-and-price .price {
+  flex: 1;
+  padding-left: 5px;
+  color: #666666;
+  font-size: 12px;
+  line-height: 22px;
+}
+.food-item-wrapper .food-info-wrapper .item-right .star-and-price .address {
+  color: #666666;
+  font-size: 12px;
+}
+.food-item-wrapper .food-info-wrapper .item-right .cateNmae-and-smartTags {
+  width: 520rpx;
+  font-size: 14px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.food-item-wrapper .food-info-wrapper .item-right .cateNmae-and-smartTags .cateName {
+  display: inline;
+  color: #666666;
+}
+.food-item-wrapper .food-info-wrapper .item-right .cateNmae-and-smartTags .smartTags {
+  border-radius: 3px;
+  display: inline;
+  margin: 0 5px;
+}
+.food-item-wrapper .food-info-wrapper .item-right .service-tags-wrapper .service-tags {
+  display: inline;
+}
+.food-item-wrapper .deal-info-wrapper .preferential {
+  margin: 5px 0;
+  display: flex;
+}
+.food-item-wrapper .deal-info-wrapper .preferential .promotion-wrapper {
+  width: 160rpx;
+  text-align: right;
+}
+.food-item-wrapper .deal-info-wrapper .preferential .promotion-wrapper .promotion-text {
+  display: inline-block;
+  font-size: 12px;
+  color: #fc8444;
+  border: 1px solid #fc8444;
+  border-radius: 2px;
+}
+.food-item-wrapper .deal-info-wrapper .preferential .entry-wrapper {
+  flex: 1;
+  padding: 0 20rpx;
+}
+.food-item-wrapper .deal-info-wrapper .preferential .entry-wrapper .promotion-icon {
+  width: 30rpx;
+}
+.food-item-wrapper .deal-info-wrapper .preferential .entry-wrapper .content {
+  padding-left: 10rpx;
+  width: 480rpx;
+  display: inline-block;
+  font-size: 12px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  color: #666666;
+}
