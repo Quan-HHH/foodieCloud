@@ -7,11 +7,7 @@
       <view class="food-name">{{foodItem.name}}</view>
       <view class="star-and-price">
         <view class="star">
-          <text class="iconfont icon-xingxing"></text>
-          <text class="iconfont icon-xingxing"></text>
-          <text class="iconfont icon-xingxing"></text>
-          <text class="iconfont icon-xingxing"></text>
-          <text class="iconfont icon-xingxing"></text>
+          <van-rate allow-half read-only size="{{15}}" value="{{foodItem.avgScore}}" color="#fc8444" bind:change="onChange" />
         </view>
         <view class="price">¥{{foodItem.avgPrice}}/人</view>
         <view class="address">{{foodItem.areaName}}</view>

@@ -1,1 +1,64 @@
-/* miniprogram/pages/detail/detail.wxss */
+.detail-container .image-wrapper {
+  background-color: #fff;
+  padding: 20rpx 25rpx;
+  max-height: 600rpx;
+  overflow: hidden;
+}
+.detail-container .image-wrapper image {
+  border-radius: 16px;
+  width: 100%;
+}
+.detail-container .merchant-info {
+  margin-bottom: 20px;
+  background-color: #fff;
+  padding: 0 20rpx 10px 20rpx;
+}
+.detail-container .merchant-info .merchant-name {
+  font-size: 20px;
+  font-weight: 500;
+}
+.detail-container .merchant-info .business-info {
+  display: flex;
+}
+.detail-container .merchant-info .business-info .left {
+  flex: 1;
+}
+.detail-container .merchant-info .business-info .left text {
+  font-size: 12px;
+  padding: 0 3px;
+  border-radius: 2px;
+  overflow: hidden;
+  background-color: #e5e5e5;
+  margin-right: 5px;
+}
+.detail-container .merchant-info .business-info .right {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.detail-container .merchant-info .van-tabs {
+  margin-top: 20px;
+}
+.detail-container .detail-footer {
+  border-top: 1px solid #e5e5e5;
+  padding: 3px 0;
+  width: 100%;
+  position: fixed;
+  bottom: 0;
+  display: flex;
+  z-index: 99;
+}
+.detail-container .detail-footer .footer-item {
+  width: 25%;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.detail-container .detail-footer .footer-item .iconfont {
+  font-size: 24px;
+}
+.detail-container .detail-footer .footer-item .text {
+  font-size: 12px;
+  color: #666666;
+}

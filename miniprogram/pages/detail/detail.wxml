@@ -1,5 +1,43 @@
 <view class="detail-container">
   <view class="image-wrapper">
-    <image src="https://img.meituan.net/msmerchant/88513028d06e8b0ef38a24533acb11a2286328.png"></image>
+    <image src="{{itemDetail.frontImg}}" mode="widthFix" />
+  </view>
+  <view class="merchant-info">
+    <view class="merchant-name">{{itemDetail.name}}</view>
+    <view class="star-and-price">
+      <van-rate allow-half readonly size="{{18}}" value="{{itemDetail.avgScore}}" color="#fc8444" bind:change="onChange" />
+      <text style="color: #fc8444;">{{itemDetail.avgScore}}</text>
+      <view style="display: inline; padding-left: 10px;">
+        <text>详情</text>
+        <i class="iconfont icon-next"></i>
+      </view>
+      <text style="padding-left: 10px;">¥{{itemDetail.avgPrice}}/人</text>
+    </view>
+    <view class="sort-and-add">
+      <text>{{itemDetail.cateName}}</text>
+      <text style="padding-left: 10px;">{{itemDetail.areaName}}</text>
+    </view>
+    <view class="business-info">
+      <view class="left">
+        <view>营业时间 11:00-21:00</view>
+        <text wx:for="{{['无接触外卖/自提', '可停车', '有WI-FI']}}" wx:key="index">{{item}}</text>
+      </view>
+      <view class="right iconfont icon-next"></view>
+    </view>
+    <view class="take-out"></view>
+  </view>
+  <van-tabs sticky animated color="#fc8444">
+    <van-tab title="评价">暂无评价</van-tab>
+    <van-tab title="优惠">暂无优惠</van-tab>
+    <van-tab title="菜品">暂无菜品</van-tab>
+    <van-tab title="推荐">暂无推荐</van-tab>
+  </van-tabs>
+  <view class="detail-footer">
+    <view class="footer-item" wx:for="{{footer}}" wx:key="index">
+      <view>
+        <view class="iconfont {{item.icon}}"></view>
+        <view class="text">{{item.text}}</view>
+      </view>
+    </view>
   </view>
 </view>
