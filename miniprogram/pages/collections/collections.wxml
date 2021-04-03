@@ -1,0 +1,4 @@
+<!-- miniprogram/pages/collections/collections.wxml -->
+<view class="food-list-container">
+  <food-item wx:for="{{collectionList}}" wx:key="index" foodItem="{{item}}" bindtap="toDetail" data-id="{{item.poiid}}"></food-item>
+</view>

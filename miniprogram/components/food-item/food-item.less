@@ -1,0 +1,104 @@
+.food-item-wrapper {
+  box-sizing: border-box;
+  padding: 30rpx 0 0 30rpx;
+  width: 100%;
+  border-bottom: 1px solid #e5e5e5;
+  .food-info-wrapper {
+    display: flex;
+    .item-left {
+      width: 160rpx;
+      height: 160rpx;
+      overflow: hidden;
+      image {
+        width: 100%;
+      }
+    }
+    .item-right {
+      flex: 1;
+      padding: 0 20rpx;
+      border-bottom: 1px solid #e5e5e5;
+      .food-name {
+        width: 520rpx;
+        font-size: 17px;
+        font-weight: 500;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+      }
+      .star-and-price {
+        display: flex;
+        .iconfont::before {
+          // vertical-align: middle;
+          color: #fc8444;
+        }
+        .price {
+          flex: 1;
+          padding-left: 5px;
+          color: #666666;
+          font-size: 12px;
+          line-height: 22px;
+        }
+        .address {
+          color: #666666;
+          font-size: 12px;
+        }
+      }
+      .cateNmae-and-smartTags {
+        width: 520rpx;
+        font-size: 14px;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        .cateName {
+          display: inline;
+          color: #666666;
+        }
+        .smartTags {
+          border-radius: 3px;
+          display: inline;
+          margin: 0 5px;
+        }
+      }
+      .service-tags-wrapper {
+        .service-tags {
+          display: inline;
+        }
+      }
+    }
+  }
+  .deal-info-wrapper {
+    .preferential {
+      margin: 5px 0;
+      display: flex;
+      .promotion-wrapper {
+        width: 160rpx;
+        text-align: right;
+        .promotion-text {
+          display: inline-block;
+          font-size: 12px;
+          color: #fc8444;
+          border: 1px solid #fc8444;
+          border-radius: 2px;
+        }
+      }
+      .entry-wrapper {
+        flex: 1;
+        padding: 0 20rpx;
+        .promotion-icon {
+          width: 30rpx;
+        }
+        .content {
+          padding-left: 10rpx;
+          width: 480rpx;
+          display: inline-block;
+          font-size: 12px;
+          white-space: nowrap;
+          overflow: hidden;
+          text-overflow: ellipsis;
+          color: #666666;
+        }
+      }
+
+    }
+  }
+}

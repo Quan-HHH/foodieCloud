@@ -28,6 +28,7 @@
 
 .sort-container {
   width: 100%;
+  background-color: #fff;
 }
 
 .scroll-wrapper {
@@ -35,4 +36,15 @@
   width: 1200rpx;
   display: flex;
   flex-wrap: wrap;
+}
+van-dropdown-menu {
+  z-index: 99;
+  width: 100%;
+  margin-top: 20px;
+  box-shadow: none;
+  position: sticky;
+}
+.food-list-container {
+  width: 100%;
+  background-color: #fff;
 }

@@ -1,6 +1,6 @@
 {
   "pages": [
-    "pages/mine/mine",
+    "pages/collections/collections",
     "pages/index/index",
     "pages/login/login",
     "pages/rank/rank",
@@ -9,6 +9,8 @@
     "pages/mine/comment/comment",
     "pages/mine/collection/collection",
     "pages/mine/address/address"
+    "pages/mine/mine",
+    "pages/detail/detail"
   ],
   "tabBar": {
     "color": "#707070",

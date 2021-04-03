@@ -4,7 +4,7 @@
     <view class="nav-bar-top" style="{{statusBarStyle}}"></view>
     <view class="nav-bar" style="{{navBarStyle}}">
       <view class="select-city" style="color: white;">
-        <text>{{city}} </text>
+        <text>{{city}}</text>
         <text class="iconfont icon-xiala"></text>
       </view>
       <view class="search-bar">
@@ -17,4 +17,12 @@
       <sort-item wx:for="{{iconItem}}" wx:key="index" iconUrl="{{item.iconUrl}}" name="{{item.name}}"></sort-item>
     </view>
   </scroll-view>
+  <van-dropdown-menu active-color="#fc8444" style="top: {{vanMenuStickyTop}}px">
+    <van-dropdown-item value="{{ value1 }}" options="{{ option1 }}" />
+    <van-dropdown-item value="{{ value2 }}" options="{{ option2 }}" />
+    <van-dropdown-item value="{{ value3 }}" options="{{ option3 }}" />
+  </van-dropdown-menu>
+  <view class="food-list-container">
+    <food-item wx:for="{{foodList}}" wx:key="index" foodItem="{{item}}" bindtap="toDetail" data-id="{{item.poiid}}"></food-item>
+  </view>
 </view>

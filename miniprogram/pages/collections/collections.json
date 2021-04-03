@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "收藏列表",
+  "usingComponents": {
+    "food-item": "/components/food-item/food-item"
+  }
+}
