@@ -4,9 +4,13 @@
     "pages/index/index",
     "pages/login/login",
     "pages/rank/rank",
+    "pages/fabu/fabu",
     "pages/community/community",
     "pages/mine/mine",
-    "pages/detail/detail"
+    "pages/detail/detail",
+    "pages/mine/comment/comment",
+    "pages/mine/collection/collection",
+    "pages/mine/address/address"
   ],
   "tabBar": {
     "color": "#707070",
@@ -25,7 +29,7 @@
         "selectedIconPath": "images/rank-active.png"
       },
       {
-        "pagePath": "pages/community/community",
+        "pagePath": "pages/fabu/fabu",
         "text": "社区",
         "iconPath": "images/community.png",
         "selectedIconPath": "images/community-active.png"
@@ -39,10 +43,10 @@
     ]
   },
   "window": {
-    "backgroundColor": "#F6F6F6",
+    "backgroundColor": "#fff",
     "backgroundTextStyle": "light",
-    "navigationBarBackgroundColor": "#F6F6F6",
-    "navigationBarTitleText": "云开发 QuickStart",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "云觅食",
     "navigationBarTextStyle": "black"
   },
   "sitemapLocation": "sitemap.json",

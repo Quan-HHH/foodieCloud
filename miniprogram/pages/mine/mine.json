@@ -1,3 +1,16 @@
 {
-  "usingComponents": {}
+  "window": {
+    "navigationBarBackgroundColor": "#ffffff",
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "云觅食",
+    "backgroundColor": "#fff",
+    "backgroundTextStyle": "light",
+    "enablePullDownRefresh": true
+  },
+  "usingComponents": {
+    "van-cell": "../../miniprogram_npm/@vant/weapp/cell/index",
+    "van-cell-group": "../../miniprogram_npm/@vant/weapp/cell-group/index",
+    "van-popup": "../../miniprogram_npm/@vant/weapp/popup/index",
+    "van-dialog": "../../miniprogram_npm/@vant/weapp/dialog/index"
+  }
 }

@@ -1,0 +1,53 @@
+/* miniprogram/pages/mine/comment/comment.wxss */
+.commentBox{
+  width: 90%;
+  border-radius: 5%;
+  border: 1px #000 solid; 
+  display: flex; 
+  flex-direction: row;
+}
+
+.commentBox-item{
+  width: 100%;
+  display: flex;
+}
+
+.comment-avater{
+  width: 20%;
+  padding-left: 20rpx;
+  
+  border: 1px #000 solid;
+}
+.comment-avater image{
+  width: 120rpx;
+  height: 120rpx;
+  border-radius: 50%;
+}
+
+.comment-info{
+  flex: 1;
+  border: 1px #000 solid;
+  flex-direction: column;
+  line-height: 25px;
+}
+.username{
+  font-weight: 600;
+  margin-left: 20rpx;
+  margin-top: 20rpx;
+  font-size: 18px;
+}
+.comment-detail{
+  font-size: 18px;
+  margin-left: 20rpx;
+}
+
+.comment-info text{
+  text-align: center;
+}
+
+.comment-shop{
+  
+
+
+}
+
