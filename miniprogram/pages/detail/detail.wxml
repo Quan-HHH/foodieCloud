@@ -33,10 +33,30 @@
     <van-tab title="推荐">暂无推荐</van-tab>
   </van-tabs>
   <view class="detail-footer">
-    <view class="footer-item" wx:for="{{footer}}" wx:key="index">
+    <view class="footer-item">
       <view>
-        <view class="iconfont {{item.icon}}"></view>
-        <view class="text">{{item.text}}</view>
+        <view class="iconfont icon-daka"></view>
+        <view class="text">去打卡</view>
+      </view>
+    </view>
+    <view class="footer-item" bindtap="handleCollect">
+      <view>
+        <view class="iconfont icon-xingxing" style="color: {{isCollect ? '#fc8444' : ''}}"></view>
+        <view class="text" style="color: {{isCollect ? '#fc8444' : ''}}">
+          {{isCollect ? '已收藏' : '收藏'}}
+        </view>
+      </view>
+    </view>
+    <view class="footer-item">
+      <view>
+        <view class="iconfont icon-zhaopian"></view>
+        <view class="text">传照片</view>
+      </view>
+    </view>
+    <view class="footer-item">
+      <view>
+        <view class="iconfont icon-icon-test"></view>
+        <view class="text">写评价</view>
       </view>
     </view>
   </view>

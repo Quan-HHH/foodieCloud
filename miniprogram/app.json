@@ -1,11 +1,12 @@
 {
   "pages": [
+    "pages/collections/collections",
     "pages/index/index",
-    "pages/detail/detail",
     "pages/login/login",
     "pages/rank/rank",
     "pages/community/community",
-    "pages/mine/mine"
+    "pages/mine/mine",
+    "pages/detail/detail"
   ],
   "tabBar": {
     "color": "#707070",

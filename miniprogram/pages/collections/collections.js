@@ -1,48 +1,23 @@
-const app = getApp()
+// miniprogram/pages/collections/collections.js
 Page({
 
   /**
    * 页面的初始数据
    */
   data: {
-    id: null,
-    itemDetail: {},
-    isCollect: false,
+    collectionList: [],
   },
 
-  handleCollect: function() {
-    // 调用云函数 把这条数据放到收藏列表中
-    const self = this
-    wx.cloud.callFunction({
-      name: 'addCollection',
-      data: {
-        ...this.data.itemDetail,
-      }
-    }).then(res => {
-      this.setData({
-        isCollect: res.result
-      })
-    }).catch(err => {
-      console.log(err)
-    })
-  },
   /**
    * 生命周期函数--监听页面加载
    */
   onLoad: function (options) {
     const self = this
-    const { id } = options
-    const itemDetail = app.globalData.foodList.find(({poiid}) => poiid === id )
     wx.cloud.callFunction({
-      name: 'isCollection',
-      data: {
-        id
-      }
+      name: 'getCollection'
     }).then((res) => {
-      this.setData({
-        isCollect: res.result,
-        id,
-        itemDetail,
+      self.setData({
+        collectionList: res.result.data
       })
     })
   },
