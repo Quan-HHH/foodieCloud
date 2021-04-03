@@ -12,4 +12,4 @@
   </view>
 </view>
 
-<button type="primary" bindtap="publish">发布</button>
+<button type="primary" bindtap="publish">fabu</button>
