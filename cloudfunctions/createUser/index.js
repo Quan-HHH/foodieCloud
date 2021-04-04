@@ -20,7 +20,6 @@ exports.main = async (event, context) => {
         openId: userInfo.openId
       }
     })
-    return 123
   } else {
     await db.collection('user').add({
       data: {
@@ -28,6 +27,5 @@ exports.main = async (event, context) => {
         openId: userInfo.openId
       }
     })
-    return 111
   }
 }

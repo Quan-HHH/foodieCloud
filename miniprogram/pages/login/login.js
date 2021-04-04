@@ -8,35 +8,36 @@ Page({
 
   },
 
-  getUserInfo(e) {
-    console.log(e.detail.userInfo)
-    // 允许授权 调用云函数
-    if(e.detail.userInfo) {
-      app.globalData.userInfo = e.detail.userInfo
-      console.log(app.globalData)
-      wx.cloud.callFunction({
-        name: 'createUser',
-        data: {
-          ...e.detail.userInfo
-        }
-      }).then(res => {
-        console.log('成功', res)
-      }).catch(err => {
-        console.log('失败', err)
-      })
-      wx.switchTab({
-        url: '/pages/index/index',
-      });
-    }
-
-  },
-
   /**
    * 生命周期函数--监听页面加载
    */
   onLoad: function (options) {
 
   },
+
+  bindGetUserInfo: function (e) {
+    wx.getUserProfile({
+      desc:'正在获取',
+      success: function (res) {
+        app.globalData.userInfo = res.userInfo
+        wx.cloud.callFunction({
+          name: 'createUser',
+          data: {
+            ...res.userInfo
+          }
+        }).then(res => {
+          // console.log('成功', res)
+        }).catch(err => {
+          // console.log('失败', err)
+        })
+        wx.switchTab({
+          url: '../index/index'
+        })
+      },
+      fail: function (res) {}
+    })
+  },
+
 
   /**
    * 生命周期函数--监听页面初次渲染完成

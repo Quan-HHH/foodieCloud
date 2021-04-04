@@ -1,8 +1,8 @@
 {
   "pages": [
+    "pages/login/login",
     "pages/collections/collections",
     "pages/index/index",
-    "pages/login/login",
     "pages/rank/rank",
     "pages/community/community",
     "pages/mine/mine",

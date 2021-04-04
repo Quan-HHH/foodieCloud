@@ -1,4 +1,4 @@
 <view class="container">
   <image class="" src="../../images/login-bg1.jpg" />
-  <button type="primary" open-type="getUserInfo" bindgetuserinfo="getUserInfo">授权登录</button>
+  <button catchtap="bindGetUserInfo">授权登录</button>
 </view>
