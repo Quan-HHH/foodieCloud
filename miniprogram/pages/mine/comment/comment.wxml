@@ -1,0 +1,22 @@
+<!--miniprogram/pages/mine/comment/comment.wxml-->
+<view class="container">
+  <view class="commentBox">
+    <view class="commentBox-item">
+      <view class="comment-avater">
+        <image src="../../../images/main.png"></image>
+      </view>
+      <view class="comment-info">
+        <text class="username">zw</text>
+        <text>\n</text>
+        <text class="comment-detail">dd</text>
+        <van-viewider />
+        <view class="comment-shop">
+            <text>cd</text>
+        </view>
+      </view>
+      
+    </view>
+  </view>
+
+</view>
+

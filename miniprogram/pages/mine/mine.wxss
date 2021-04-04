@@ -1,1 +1,80 @@
-/* miniprogram/pages/mine/mine.wxss */
+.container{
+  background-color: #fff;
+}
+.userinfo{
+  display: flex;
+  align-items: center;
+  height: 200rpx;
+  margin: 0 auto;
+}
+
+.userinfo-left{
+  flex: 0 0 500rpx; /* 左侧固定300px */
+  height: 200rpx;
+}
+
+.userinfo-name{
+  font-weight: 400;
+  font-size: 20px;
+  padding: 50rpx 0rpx 0rpx 100rpx;
+}
+
+.userinfo-intr{
+  font-size: 14px;
+  padding: 25rpx 0rpx 0rpx 100rpx;
+  color: #c0c0c0;
+}
+.userinfo-right{
+  flex: 1;
+  padding-right: 30rpx;
+}
+.userinfo-avatar{
+  width: 130rpx;
+  height: 130rpx;
+  border-radius: 50%;
+}
+
+.card{
+  display: flex;
+  align-items: center;
+  background: #ffffff;
+  box-shadow:0 0 10px #e0e0e0;
+  height: 140rpx;
+  margin-top: 20rpx;
+  border-radius: 15rpx;
+  width: 88%;
+}
+
+.card-info{
+  width: 80%;
+  margin-left: 25rpx;
+  display: flex;
+  flex-direction: column;
+}
+
+.card-card{
+  font-weight: 600;
+  margin-left: 20rpx;
+}
+
+.card-detail{
+  font-size: 12px;
+  color: #c0c0c0;
+}
+
+.card-two{
+  height: 30rpx;
+  width: 30rpx;
+}
+
+.operate{
+  margin-top: 50rpx;
+  width: 90%;
+}
+.edition{
+  color: #c0c0c0;
+  font-size: 12px;
+  position: absolute;
+  bottom: 10px;
+  left: 48%;
+}

@@ -1,2 +1,31 @@
-<!--miniprogram/pages/mine/mine.wxml-->
-<text>miniprogram/pages/mine/mine.wxml</text>
+<!-- miniprogram/pages/mine/mine.wxml -->
+<view class="container">
+  <view class="userinfo">
+    <view class='userinfo-left'>
+      <view class='userinfo-name'>{{userInfo.nickName}}</view>
+      <view class='userinfo-intr'>再忙也要记得吃饭哦~</view>
+    </view>
+    <view class="userinfo-right">
+      <image class="userinfo-avatar" src="{{userInfo.avatarUrl}}"></image>
+    </view>
+  </view>
+  <view class='card' bindtap="Comment">
+    <view class='card-info'>
+      <view>
+        <i class='iconfont icon-mingpian' style="color: #fc8444;"></i>
+        <text class='card-card'>我的点评名片</text>
+        <text>\n</text>
+        <text class='card-detail'>全新审计，彰显身份</text>
+      </view>
+    </view>
+    <image class="card-two" src="../../images/twoCode.png"></image>
+    <i class='iconfont icon-next'></i>
+  </view>
+  <view class='operate'>
+    <van-cell title="我的地址" icon="location-o" icon-color="red" is-link bindtap="Address" />
+    <van-cell title="我的收藏" icon="star-o" is-link bindtap="Collection" />
+    <van-cell title="我的客服" icon="service-o" is-link bindtap='' />
+    <van-cell title="规则中心" icon="orders-o" is-link bindtap="" />
+  </view>
+  <view class='edition'>V1.0.0</view>
+</view>

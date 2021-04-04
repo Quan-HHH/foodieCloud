@@ -1,0 +1,15 @@
+/* miniprogram/pages/mine/address/address.wxss */
+.container{
+  display: inline;
+}
+.addrinfo{
+  
+}
+.addinfo{
+  width: 100%;
+  text-align: center;
+  align-content: center;
+  font-size: 12px;
+  position: absolute;
+  bottom: 0;
+}

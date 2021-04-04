@@ -1,0 +1,14 @@
+<!--miniprogram/pages/mine/address/address.wxml-->
+<view class="container">
+    <view class="addrinfo">
+        <van-cell value="修改" icon="location-o" is-link>
+        <view slot="title">
+            <view class="van-cell-text">宗雯  女士  18875218996</view>
+            <van-tag type="danger">重庆师范大学雅风苑</van-tag>
+        </view>
+        </van-cell>
+    </view>
+    <view class="addinfo">
+        <van-cell center title="添加地址"/>
+    </view>
+</view>
