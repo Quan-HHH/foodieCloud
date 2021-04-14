@@ -27,7 +27,9 @@
     <view class="take-out"></view>
   </view>
   <van-tabs sticky animated color="#fc8444">
-    <van-tab title="评价">暂无评价</van-tab>
+    <van-tab title="评价">
+      <comment-item></comment-item>
+    </van-tab>
     <van-tab title="优惠">暂无优惠</van-tab>
     <van-tab title="菜品">暂无菜品</van-tab>
     <van-tab title="推荐">暂无推荐</van-tab>
@@ -53,7 +55,7 @@
         <view class="text">传照片</view>
       </view>
     </view>
-    <view class="footer-item">
+    <view class="footer-item" bindtap="handleComment">
       <view>
         <view class="iconfont icon-icon-test"></view>
         <view class="text">写评价</view>

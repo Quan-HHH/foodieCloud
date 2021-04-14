@@ -1,0 +1,8 @@
+.comment-item-container .userinfo-wrapper .avatar {
+  width: 50px;
+  border-radius: 100%;
+  overflow: hidden;
+}
+.comment-item-container .userinfo-wrapper .avatar image {
+  width: 100%;
+}

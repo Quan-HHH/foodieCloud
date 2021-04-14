@@ -3,7 +3,22 @@ Page({
   data: {
     imgList: [],
     fileIDs: [],
-    desc: ''
+    desc: '',
+    rate: [
+      {
+        title: '总体',
+        score: null,
+      },
+      {
+        title: '口味',
+        score: null,
+      },
+      {
+        title: '环境',
+        score: null,
+      },
+    ],
+    foodId: null,
   },
 
   //获取输入内容
@@ -14,6 +29,13 @@ Page({
     })
   },
 
+  onChange(event) {
+    console.log(event)
+    let key = `rate[${event.target.dataset.index}].score`
+    this.setData({
+      [key]: event.detail
+    })
+  },
 
   //选择图片
   ChooseImage() {
@@ -65,6 +87,13 @@ Page({
       })
       return
     }
+    if(!this.data.rate[0].score) {
+      wx.showToast({
+        icon: "none",
+        title: '请评分'
+      })
+      return
+    }
     if (!imgList || imgList.length < 1) {
       wx.showToast({
         icon: "none",
@@ -107,6 +136,8 @@ Page({
           date: app.getNowFormatDate(),
           createTime: db.serverDate(),
           desc: this.data.desc,
+          score: this.data.rate[0].score,
+          foodId: this.data.foodId,
           images: this.data.imgList
         },
         success: res => {
@@ -115,9 +146,9 @@ Page({
             title: '发布成功',
           })
           console.log('发布成功', res)
-          wx.navigateTo({
-            url: '../community/community',
-          })
+          wx.navigateBack({
+            delta: 1
+          });
         },
         fail: err => {
           wx.hideLoading()
@@ -130,4 +161,11 @@ Page({
       })
     })
   },
+
+  onLoad: function(options) {
+    const { id } = options
+    this.setData({
+      foodId: id,
+    })
+  }
 })

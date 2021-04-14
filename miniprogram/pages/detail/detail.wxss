@@ -47,6 +47,7 @@
   bottom: 0;
   display: flex;
   z-index: 99;
+  background-color: #f6f6f6;
 }
 .detail-container .detail-footer .footer-item {
   width: 25%;

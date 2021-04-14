@@ -8,6 +8,7 @@ Page({
     id: null,
     itemDetail: {},
     isCollect: false,
+    commentList: [],
   },
 
   handleCollect: function() {
@@ -25,6 +26,17 @@ Page({
     }).catch(err => {
       console.log(err)
     })
+  },
+
+  handleComment: function() {
+    wx.navigateTo({
+      url: `../fabu/fabu?id=${this.data.id}`,
+      success: (result)=>{
+        console.log(result)
+      },
+      fail: (err)=>{ console.log(err) },
+      complete: ()=>{}
+    });
   },
   /**
    * 生命周期函数--监听页面加载

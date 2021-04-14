@@ -1,4 +1,8 @@
 <textarea class="desc" placeholder="请输入内容" bindinput="getInput" />
+<view class="rating-wrap" wx:for="{{rate}}" wx:key="index">
+  <text>{{item.title}}</text>
+  <van-rate value="{{ value }}" size="{{ 25 }}" allow-half color="#fc8444" void-color="#eee" void-icon="star" data-index="{{index}}" bind:change="onChange" />
+</view>
 <view class="iamgeRootAll">
   <block wx:for="{{imgList}}" wx:key="index">
     <view class="imgItem">
@@ -11,5 +15,4 @@
     <image class="photo" src="../../images/photo.png"></image>
   </view>
 </view>
-
 <button type="primary" bindtap="publish">发布</button>

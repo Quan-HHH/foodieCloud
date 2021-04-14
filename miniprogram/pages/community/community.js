@@ -4,7 +4,6 @@ Page({
     dataList: []
   },
   onLoad() {
-    console.log(12313213123123213)
     let that = this;
     wx.cloud.database().collection('timeline')
       .orderBy('createTime', 'desc') //按发布视频排序

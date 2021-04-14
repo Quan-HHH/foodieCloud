@@ -4,6 +4,7 @@
     "van-rate": "@vant/weapp/rate/index",
     "van-icon": "@vant/weapp/icon/index",
     "van-tab": "@vant/weapp/tab/index",
-    "van-tabs": "@vant/weapp/tabs/index"
+    "van-tabs": "@vant/weapp/tabs/index",
+    "comment-item": "/components/comment-item/comment-item"
   }
 }

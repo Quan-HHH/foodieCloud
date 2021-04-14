@@ -1,0 +1,9 @@
+<!-- components/comment-item/comment-item.wxml -->
+<view class="comment-item-container">
+  <view class="userinfo-wrapper">
+    <view class="avatar">
+      <image mode="widthFix" src="https://img.meituan.net/msmerchant/88513028d06e8b0ef38a24533acb11a2286328.png" />
+    </view>
+    <view class="username-and-rate"></view>
+  </view>
+</view>
