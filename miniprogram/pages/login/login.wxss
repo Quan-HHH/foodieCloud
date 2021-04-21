@@ -1,4 +1,9 @@
 /* miniprogram/pages/login/login.wxss */
 page {
   background-color: #fff;
+  padding-top:75px
+}
+
+button {
+  margin-top: 15px;
 }

@@ -2,8 +2,14 @@
 <view class="comment-item-container">
   <view class="userinfo-wrapper">
     <view class="avatar">
-      <image mode="widthFix" src="https://img.meituan.net/msmerchant/88513028d06e8b0ef38a24533acb11a2286328.png" />
+      <image mode="widthFix" src="https://thirdwx.qlogo.cn/mmopen/vi_32/HOGsmqPjZ2IaABKhkpTGUWxROnxtp3C638a7OZl62M21f9RCHQ1smr93MUtibf7mzeOvn7DukRJp7ewkg2K71ibw/132" />
     </view>
-    <view class="username-and-rate"></view>
+    <view class="username-and-rate">
+      <view>
+        <text style="font-size: 18px; font-weight: 600;">HYCS</text>
+        <text>2021.04.21</text>
+      </view>
+      <van-rate readonly allow-half value="{{ 5 }}" size="{{15}}" color="#fc8444" bind:change="onChange" />
+    </view>
   </view>
 </view>

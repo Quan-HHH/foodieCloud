@@ -1,3 +1,6 @@
+.detail-container {
+  padding-bottom: 50px;
+}
 .detail-container .image-wrapper {
   background-color: #fff;
   padding: 20rpx 25rpx;

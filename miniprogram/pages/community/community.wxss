@@ -1,9 +1,13 @@
+page{
+  background-color: #fff;
+}
 .itemRoot {
   margin-left: 50rpx;
 }
 
 .imgRoot {
-  margin-left: 40rpx;
+  margin-left: 20rpx;
+  margin-top: 10rpx;
 }
 
 .imgList {
@@ -16,3 +20,72 @@
   width: 155rpx;
   height: 155rpx;
 }
+
+/* miniprogram/pages/mine/comment/comment.wxss */
+.commentBox{
+  padding-top: 20rpx;
+  width: 95%;
+  border-radius: 5%;
+  display: flex; 
+  flex-direction: column;
+}
+
+.commentBox-item{
+  width: 100%;
+  display: flex;
+  padding-bottom: 20rpx;
+}
+
+.comment-avater{
+  width: 16%;
+  padding-left: 10rpx;
+}
+.comment-avater image{
+  width: 100rpx;
+  height: 100rpx;
+  border-radius: 10%;
+}
+
+.comment-info{
+  flex: 1;
+  flex-direction: column;
+  line-height: 25px;
+}
+.username{
+  font-weight: 600;
+  margin-left: 20rpx;
+  margin-top: 20rpx;
+  font-size: 16px;
+  color: #3f3c3a;
+}
+.comment-detail{
+  font-size: 16px;
+  margin-left: 20rpx;
+  padding-bottom: 20rpx;
+}
+
+.comment-info text{
+  text-align: center;
+  
+}
+
+.comment-label{
+  display: flex;
+  flex-direction: row;
+}
+
+.comment-litem{
+  border-radius: 20px;
+  background-color: rgb(228, 228, 228);
+  font-size: 12px;
+  height: 20px;
+  line-height: 20px;
+}
+
+.comment-litem text{
+  padding:0 10px 0 10px ;
+}
+
+
+
+
