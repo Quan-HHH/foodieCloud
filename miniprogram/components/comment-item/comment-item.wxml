@@ -12,4 +12,5 @@
       <van-rate readonly allow-half value="{{ 5 }}" size="{{15}}" color="#fc8444" bind:change="onChange" />
     </view>
   </view>
+  <view class="comment-img-wrap"></view>
 </view>

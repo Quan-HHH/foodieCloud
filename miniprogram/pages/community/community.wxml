@@ -10,22 +10,19 @@
           <text>\n</text>
           <text class="comment-detail">{{item.desc}}</text>
           <view class="imgRoot">
-      <block class="imgList" wx:for="{{item.fileIDs}}" wx:for-item="itemImg" wx:key="index">
-        <image class="img" src='{{itemImg}}' mode='aspectFill' data-img='{{[itemImg,item.fileIDs]}}' bindtap="previewImg"></image>
-      </block>
-    </view>
-          <van-divider hairline/>
+            <block class="imgList" wx:for="{{item.fileIDs}}" wx:for-item="itemImg" wx:key="index">
+              <image class="img" src='{{itemImg}}' mode='aspectFill' data-img='{{[itemImg,item.fileIDs]}}' bindtap="previewImg"></image>
+            </block>
+          </view>
+          <van-divider hairline />
           <view class="comment-label">
-              <view class="comment-litem">
-                <text> 纸上烤鱼 </text>
-              </view>
+            <view class="comment-litem">
+              <text>纸上烤鱼</text>
+            </view>
           </view>
-          </view>
+        </view>
       </view>
       <van-divider hairline />
     </block>
   </view>
 </view>
-
-
-
