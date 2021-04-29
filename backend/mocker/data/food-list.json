@@ -3,6 +3,7 @@
     {
       "avgPrice": 51,
       "avgScore": 4.7,
+      "value": 1,
       "cateName": "潮汕牛肉火锅",
       "channel": "food",
       "showType": "",
@@ -63,6 +64,7 @@
     {
       "avgPrice": 50,
       "avgScore": 4.7,
+      "value": 1,
       "cateName": "融合烤肉",
       "channel": "food",
       "showType": "",
@@ -122,6 +124,7 @@
     {
       "avgPrice": 43,
       "avgScore": 4.6,
+      "value": 1,
       "cateName": "猪肚鸡火锅",
       "channel": "food",
       "showType": "",
@@ -212,6 +215,7 @@
     {
       "avgPrice": 42,
       "avgScore": 5,
+      "value": 1,
       "cateName": "特色火锅",
       "channel": "food",
       "showType": "",
@@ -280,6 +284,7 @@
     {
       "avgPrice": 8,
       "avgScore": 5,
+      "value": 3,
       "cateName": "奶茶/果汁",
       "channel": "food",
       "showType": "",
@@ -340,6 +345,7 @@
     {
       "avgPrice": 38,
       "avgScore": 4.9,
+      "value": 1,
       "cateName": "潮汕牛肉火锅",
       "channel": "food",
       "showType": "",
@@ -418,6 +424,7 @@
     {
       "avgPrice": 17,
       "avgScore": 4.7,
+      "value": 2,
       "cateName": "炸鸡炸串",
       "channel": "food",
       "showType": "",
@@ -469,6 +476,7 @@
     {
       "avgPrice": 88,
       "avgScore": 4,
+      "value": 4,
       "cateName": "小龙虾",
       "channel": "food",
       "showType": "",
@@ -564,6 +572,7 @@
     {
       "avgPrice": 112,
       "avgScore": 4.6,
+      "value": 4,
       "cateName": "综合自助",
       "channel": "food",
       "showType": "",
@@ -624,6 +633,7 @@
     {
       "avgPrice": 45,
       "avgScore": 4.6,
+      "value": 4,
       "cateName": "日本料理",
       "channel": "food",
       "showType": "",
@@ -692,6 +702,7 @@
     {
       "avgPrice": 40,
       "avgScore": 5,
+      "value": 4,
       "cateName": "海鲜",
       "channel": "food",
       "showType": "",
@@ -769,6 +780,7 @@
     {
       "avgPrice": 22,
       "avgScore": 4.9,
+      "value": 4,
       "cateName": "中式糕饼",
       "channel": "food",
       "showType": "",
@@ -838,6 +850,7 @@
     {
       "avgPrice": 60,
       "avgScore": 4.9,
+      "value": 2,
       "cateName": "烧烤",
       "channel": "food",
       "showType": "",
@@ -908,6 +921,7 @@
     {
       "avgPrice": 61,
       "avgScore": 4.6,
+      "value": 4,
       "cateName": "日式自助",
       "channel": "food",
       "showType": "",
@@ -968,6 +982,7 @@
     {
       "avgPrice": 54,
       "avgScore": 4.7,
+      "value": 4,
       "cateName": "海鲜",
       "channel": "food",
       "showType": "",
@@ -1036,6 +1051,7 @@
     {
       "avgPrice": 59,
       "avgScore": 4.6,
+      "value": 1,
       "cateName": "融合烤肉",
       "channel": "food",
       "showType": "",
@@ -1105,6 +1121,7 @@
     {
       "avgPrice": 141,
       "avgScore": 4.7,
+      "value": 4,
       "cateName": "综合自助",
       "channel": "food",
       "showType": "",
@@ -1165,6 +1182,7 @@
     {
       "avgPrice": 54,
       "avgScore": 4.7,
+      "value": 4,
       "cateName": "江西菜",
       "channel": "food",
       "showType": "",
@@ -1237,6 +1255,7 @@
     {
       "avgPrice": 17,
       "avgScore": 4.9,
+      "value": 4,
       "cateName": "日式小吃",
       "channel": "food",
       "showType": "",
@@ -1314,6 +1333,7 @@
     {
       "avgPrice": 12,
       "avgScore": 4.8,
+      "value": 3,
       "cateName": "冰淇淋",
       "channel": "food",
       "showType": "",
@@ -1374,6 +1394,7 @@
     {
       "avgPrice": 39,
       "avgScore": 4.7,
+      "value": 4,
       "cateName": "日本料理",
       "channel": "food",
       "showType": "",
@@ -1442,6 +1463,7 @@
     {
       "avgPrice": 60,
       "avgScore": 4.9,
+      "value": 4,
       "cateName": "综合自助",
       "channel": "food",
       "showType": "",
@@ -1502,6 +1524,7 @@
     {
       "avgPrice": 60,
       "avgScore": 4.9,
+      "value": 2,
       "cateName": "烧烤",
       "channel": "food",
       "showType": "",
@@ -1572,6 +1595,7 @@
     {
       "avgPrice": 72,
       "avgScore": 4.8,
+      "value": 4,
       "cateName": "自助烧烤",
       "channel": "food",
       "showType": "",
@@ -1641,6 +1665,7 @@
     {
       "avgPrice": 18,
       "avgScore": 4.8,
+      "value": 2,
       "cateName": "长沙小吃",
       "channel": "food",
       "showType": "",
@@ -1701,6 +1726,7 @@
     {
       "avgPrice": 141,
       "avgScore": 4.8,
+      "value": 4,
       "cateName": "综合自助",
       "channel": "food",
       "showType": "",
@@ -1761,6 +1787,7 @@
     {
       "avgPrice": 42,
       "avgScore": 4.6,
+      "value": 1,
       "cateName": "潮汕牛肉火锅",
       "channel": "food",
       "showType": "",
@@ -1821,6 +1848,7 @@
     {
       "avgPrice": 41,
       "avgScore": 4,
+      "value": 2,
       "cateName": "烤串",
       "channel": "food",
       "showType": "",
@@ -1899,6 +1927,7 @@
     {
       "avgPrice": 14,
       "avgScore": 4.8,
+      "value": 2,
       "cateName": "西式快餐/汉堡",
       "channel": "food",
       "showType": "",
@@ -1950,6 +1979,7 @@
     {
       "avgPrice": 50,
       "avgScore": 5,
+      "value": 1,
       "cateName": "鱼火锅",
       "channel": "food",
       "showType": "",
@@ -2027,6 +2057,7 @@
     {
       "avgPrice": 58,
       "avgScore": 4.9,
+      "value": 2,
       "cateName": "串串香",
       "channel": "food",
       "showType": "",
@@ -2086,6 +2117,7 @@
     {
       "avgPrice": 40,
       "avgScore": 5,
+      "value": 1,
       "cateName": "融合烤肉",
       "channel": "food",
       "showType": "",
@@ -2154,6 +2186,7 @@
     {
       "avgPrice": 80,
       "avgScore": 4.5,
+      "value": 4,
       "cateName": "江西菜",
       "channel": "food",
       "showType": "",
@@ -2241,6 +2274,7 @@
     {
       "avgPrice": 15,
       "avgScore": 5,
+      "value": 2,
       "cateName": "日式小吃",
       "channel": "food",
       "showType": "",
@@ -2301,6 +2335,7 @@
     {
       "avgPrice": 68,
       "avgScore": 4.9,
+      "value": 1,
       "cateName": "潮汕牛肉火锅",
       "channel": "food",
       "showType": "",
@@ -2369,6 +2404,7 @@
     {
       "avgPrice": 17,
       "avgScore": 4.8,
+      "value": 2,
       "cateName": "螺蛳粉",
       "channel": "food",
       "showType": "",
@@ -2446,6 +2482,7 @@
     {
       "avgPrice": 15,
       "avgScore": 4.7,
+      "value": 2,
       "cateName": "炸鸡炸串",
       "channel": "food",
       "showType": "",
@@ -2486,6 +2523,7 @@
     {
       "avgPrice": 39,
       "avgScore": 4.2,
+      "value": 2,
       "cateName": "小吃快餐",
       "channel": "food",
       "showType": "",
@@ -2573,6 +2611,7 @@
     {
       "avgPrice": 53,
       "avgScore": 4.8,
+      "value": 1,
       "cateName": "潮汕牛肉火锅",
       "channel": "food",
       "showType": "",
@@ -2658,6 +2697,7 @@
     {
       "avgPrice": 12,
       "avgScore": 4.7,
+      "value": 3,
       "cateName": "奶茶/果汁",
       "channel": "food",
       "showType": "",
@@ -2726,6 +2766,7 @@
     {
       "avgPrice": 15,
       "avgScore": 4.7,
+      "value": 3,
       "cateName": "奶茶/果汁",
       "channel": "food",
       "showType": "",
@@ -2786,6 +2827,7 @@
     {
       "avgPrice": 60,
       "avgScore": 4.8,
+      "value": 1,
       "cateName": "融合烤肉",
       "channel": "food",
       "showType": "",
@@ -2855,6 +2897,7 @@
     {
       "avgPrice": 15,
       "avgScore": 4.4,
+      "value": 2,
       "cateName": "快餐简餐",
       "channel": "food",
       "showType": "",
@@ -2936,6 +2979,7 @@
     {
       "avgPrice": 0,
       "avgScore": 4.9,
+      "value": 4,
       "cateName": "综合自助",
       "channel": "food",
       "showType": "",
@@ -2987,6 +3031,7 @@
     {
       "avgPrice": 45,
       "avgScore": 4.7,
+      "value": 4,
       "cateName": "海鲜",
       "channel": "food",
       "showType": "",

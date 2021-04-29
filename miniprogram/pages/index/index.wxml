@@ -8,7 +8,7 @@
         <text class="iconfont icon-xiala"></text>
       </view>
       <view class="search-bar">
-        <input placeholder-class="iconfont icon-sousuo" type="search" placeholder="搜点什么吧" />
+        <input placeholder-class="iconfont icon-sousuo" type="search" placeholder="搜点什么吧" bindblur="searchFood" />
       </view>
     </view>
   </view>
@@ -18,8 +18,8 @@
     </view>
   </scroll-view>
   <van-dropdown-menu active-color="#fc8444" style="top: {{vanMenuStickyTop}}px">
-    <van-dropdown-item value="{{ value1 }}" options="{{ option1 }}" />
-    <van-dropdown-item value="{{ value2 }}" options="{{ option2 }}" />
+    <van-dropdown-item value="{{ value1 }}" options="{{ option1 }}" bind:change="searchFoodBySort" />
+    <van-dropdown-item value="{{ value2 }}" options="{{ option2 }}" bind:change="searchFoodByRate" />
     <van-dropdown-item value="{{ value3 }}" options="{{ option3 }}" />
   </van-dropdown-menu>
   <view class="food-list-container">

@@ -14,14 +14,14 @@ Page({
     iconItem: [],
     option1: [
       { text: '全部类目', value: 0 },
-      { text: '小吃快餐', value: 1 },
-      { text: '面包甜点', value: 2 },
+      { text: '火锅烤肉', value: 1 },
+      { text: '小吃快餐', value: 2 },
       { text: '饮品店', value: 3 },
       { text: '其他美食', value: 4 },
     ],
     option2: [
       { text: '智能排序', value: 0 },
-      { text: '离我最近', value: 1 },
+      { text: '价格最低', value: 1 },
       { text: '好评优先', value: 2 },
     ],
     option3: [
@@ -35,6 +35,53 @@ Page({
     foodList: [],
   },
 
+  searchFood: function(e) {
+    let value = e.detail.value
+    if(value !== "") {
+      let newFoodList = app.globalData.foodList.filter(item => item.name.indexOf(value) >= 0)
+      this.setData({
+        foodList: newFoodList
+      })
+    } else {
+      this.setData({
+        foodList: app.globalData.foodList
+      })
+    }
+  },
+
+  searchFoodBySort: function({ detail }) {
+    let value2 = this.data.value2
+    if(detail !== 0) {
+      let newFoodList = app.globalData.foodList.filter(item => item.value === detail)
+      if(value2 !== 0) {
+        newFoodList = newFoodList.sort((a, b) => value2 === 1 ? a.avgPrice - b.avgPrice : b.avgScore - a.avgScore)
+      }
+      this.setData({
+        foodList: newFoodList
+      })
+    } else {
+      this.setData({
+        foodList: app.globalData.foodList
+      })
+    }
+
+  },
+  searchFoodByRate: function({ detail }) {
+    if(detail !== 0) {
+      let newFoodList =
+        this.data.foodList.sort((a, b) => detail === 1 ? a.avgPrice - b.avgPrice : b.avgScore - a.avgScore)
+      this.setData({
+        foodList: newFoodList,
+        value2: detail
+      })
+    } else {
+      this.setData({
+        foodList: this.data.foodList,
+        value2: detail
+      })
+    }
+
+  },
   toDetail: function(e) {
     console.log(e)
     wx.navigateTo({
@@ -45,7 +92,6 @@ Page({
       fail: () => {},
       complete: () => {}
     });
-
   },
   /**
    * 生命周期函数--监听页面加载
